@@ -1,0 +1,1001 @@
+Accident_ID,Date,Time,Location,Weather_Condition,Road_Surface,Light_Condition,Number_of_Vehicles,Number_of_Casualties,Accident_Severity,Vehicle_Type,Driver_Age,Driver_Gender,Speed_Limit,Alcohol_Involved,Cause_of_Accident
+1,2024-03-26,22:32:37,South Jeffreybury,Rainy,Dry,Daylight,4,0,Minor,Car,18,Male,70,No,Bad Weather
+2,2024-11-29,17:33:52,New Maryville,Fog,Dry,Daylight,2,1,Serious,Truck,76,Female,110,Yes,Bad Weather
+3,2024-07-05,20:22:25,Lake Karen,Snow,Icy,Daylight,3,0,Serious,Car,19,Male,110,Yes,Overspeeding
+4,2025-02-16,20:44:14,South Michael,Snow,Snowy,Dark without lights,1,1,Serious,Truck,23,Male,30,Yes,Mechanical Failure
+5,2025-02-01,00:21:43,Ericabury,Fog,Icy,Dark with street lights,4,0,Minor,Bus,62,Male,30,Yes,Mechanical Failure
+6,2024-01-15,09:21:38,Cooperburgh,Fog,Dry,Dark without lights,3,4,Fatal,Car,54,Male,90,No,Bad Weather
+7,2024-03-10,12:10:42,North Nathanielside,Clear,Snowy,Dark with street lights,4,1,Minor,Van,30,Male,110,No,Bad Weather
+8,2024-09-28,06:30:11,South Jaclynfurt,Stormy,Icy,Daylight,1,4,Serious,Car,37,Female,70,Yes,Bad Weather
+9,2023-08-15,15:47:59,Samuelport,Fog,Wet,Dark without lights,5,2,Minor,Van,51,Female,90,Yes,Bad Weather
+10,2023-08-07,11:07:01,South Michael,Fog,Wet,Daylight,3,4,Serious,Truck,43,Female,110,No,Bad Weather
+11,2023-05-26,09:03:22,Lake Joseton,Fog,Snowy,Daylight,5,4,Minor,Bicycle,53,Female,50,No,Mechanical Failure
+12,2024-04-17,07:45:01,Ericachester,Fog,Dry,Dark without lights,3,5,Minor,Car,22,Female,90,Yes,Overspeeding
+13,2023-08-11,05:04:18,Riverahaven,Stormy,Icy,Daylight,2,1,Serious,Motorbike,77,Male,30,No,Distracted Driving
+14,2024-03-06,03:05:01,Harrisland,Windy,Icy,Daylight,3,5,Serious,Car,73,Male,30,Yes,Bad Weather
+15,2024-06-29,21:35:36,North Sarahborough,Fog,Dry,Daylight,4,0,Fatal,Car,66,Female,70,No,Drunk Driving
+16,2023-07-02,01:37:14,Taraburgh,Stormy,Icy,Daylight,4,2,Minor,Bus,62,Male,70,No,Distracted Driving
+17,2025-04-21,10:13:28,Sandersfurt,Windy,Icy,Dark without lights,3,2,Serious,Bus,60,Female,110,No,Drunk Driving
+18,2024-03-14,00:40:19,Lake Thomaschester,Snow,Snowy,Daylight,5,0,Minor,Bicycle,34,Male,50,No,Overspeeding
+19,2025-04-12,23:54:05,Tracybury,Windy,Snowy,Dark without lights,4,5,Minor,Bus,31,Male,30,No,Drunk Driving
+20,2024-06-21,15:17:18,Kimberlyside,Rainy,Wet,Dark without lights,2,3,Serious,Bicycle,32,Female,110,No,Distracted Driving
+21,2024-05-03,10:33:32,North Brentton,Fog,Icy,Dark without lights,5,0,Minor,Motorbike,66,Male,50,Yes,Distracted Driving
+22,2024-05-17,11:56:14,Susanmouth,Rainy,Icy,Dark without lights,2,5,Fatal,Van,69,Male,30,No,Drunk Driving
+23,2023-10-04,08:36:48,South Ruth,Stormy,Wet,Daylight,5,1,Fatal,Bicycle,50,Female,50,Yes,Bad Weather
+24,2023-08-27,11:41:46,North Lisachester,Windy,Snowy,Dark without lights,3,5,Minor,Bicycle,42,Male,30,No,Bad Weather
+25,2024-02-03,20:43:00,North Jamie,Stormy,Snowy,Dark without lights,5,4,Serious,Car,41,Male,90,No,Other
+26,2024-11-09,05:09:19,Lake Timothy,Stormy,Snowy,Dark with street lights,3,1,Fatal,Van,48,Male,70,Yes,Drunk Driving
+27,2023-10-17,10:35:27,South Ashleybury,Fog,Snowy,Dark without lights,3,0,Minor,Bus,41,Female,70,Yes,Other
+28,2023-09-18,15:04:06,Waynechester,Windy,Dry,Dark without lights,3,1,Serious,Motorbike,69,Male,90,No,Distracted Driving
+29,2024-02-07,08:07:15,East Darryl,Rainy,Dry,Daylight,4,2,Minor,Bus,50,Male,90,No,Mechanical Failure
+30,2023-08-04,22:46:54,Charlesshire,Fog,Icy,Dark with street lights,3,1,Fatal,Car,35,Female,30,No,Bad Weather
+31,2023-11-22,04:12:55,Danielmouth,Stormy,Wet,Dark without lights,4,3,Fatal,Car,75,Male,110,Yes,Overspeeding
+32,2025-03-27,10:13:04,North Jesusshire,Clear,Wet,Daylight,1,1,Serious,Motorbike,45,Male,30,Yes,Bad Weather
+33,2025-03-24,04:28:15,Woodborough,Stormy,Snowy,Dark with street lights,4,3,Fatal,Van,74,Male,50,Yes,Overspeeding
+34,2025-01-07,15:31:08,Lake Alyssaview,Clear,Snowy,Dark with street lights,1,2,Fatal,Bicycle,48,Female,50,No,Drunk Driving
+35,2024-08-20,08:39:25,Pamelamouth,Fog,Icy,Daylight,2,5,Minor,Van,80,Male,30,Yes,Other
+36,2024-12-31,21:50:57,Port Matthew,Clear,Wet,Daylight,5,2,Fatal,Motorbike,50,Female,50,No,Drunk Driving
+37,2024-11-12,18:35:28,Stevenville,Fog,Dry,Dark with street lights,4,1,Serious,Truck,64,Female,30,No,Overspeeding
+38,2024-09-26,19:38:43,Daniellebury,Fog,Snowy,Dark with street lights,2,1,Serious,Van,31,Male,90,No,Bad Weather
+39,2025-01-28,13:34:46,Angelashire,Windy,Wet,Dark without lights,2,0,Fatal,Motorbike,43,Male,70,No,Bad Weather
+40,2024-10-10,03:51:32,Williamsview,Stormy,Icy,Dark with street lights,1,2,Serious,Bus,66,Female,90,Yes,Other
+41,2024-04-20,03:37:48,Port Daniel,Rainy,Icy,Dark with street lights,4,5,Serious,Car,44,Male,70,No,Other
+42,2024-03-15,15:49:51,Rickyport,Fog,Wet,Dark with street lights,1,5,Serious,Bus,31,Female,110,Yes,Overspeeding
+43,2024-04-02,10:43:11,East Anthony,Stormy,Snowy,Dark with street lights,3,5,Serious,Bus,41,Female,30,Yes,Overspeeding
+44,2023-12-04,00:27:05,Lake Ginabury,Fog,Wet,Dark with street lights,1,1,Serious,Motorbike,33,Female,110,No,Mechanical Failure
+45,2024-04-03,06:30:20,Johnbury,Windy,Wet,Dark without lights,2,3,Serious,Van,54,Female,50,Yes,Bad Weather
+46,2024-01-17,13:01:06,South Davidburgh,Rainy,Icy,Dark without lights,4,5,Minor,Bus,54,Male,90,Yes,Overspeeding
+47,2023-10-16,23:50:52,South Nicolasmouth,Windy,Snowy,Dark without lights,1,2,Minor,Bicycle,51,Male,30,No,Bad Weather
+48,2024-06-11,12:11:09,West Morganville,Windy,Dry,Dark with street lights,3,4,Minor,Bicycle,57,Male,50,No,Drunk Driving
+49,2023-08-22,08:50:06,East Kimberlyhaven,Windy,Dry,Dark without lights,2,1,Fatal,Motorbike,41,Male,30,No,Bad Weather
+50,2023-05-11,01:28:10,West Jennytown,Snow,Wet,Dark without lights,4,4,Minor,Bus,48,Female,30,No,Bad Weather
+51,2024-08-03,07:05:06,Nicolestad,Stormy,Wet,Dark with street lights,3,0,Minor,Motorbike,67,Female,110,No,Distracted Driving
+52,2023-05-08,12:00:51,Port Jeffreymouth,Rainy,Icy,Daylight,2,5,Serious,Truck,51,Male,50,Yes,Overspeeding
+53,2024-01-15,00:56:24,Marilynburgh,Clear,Dry,Daylight,5,4,Fatal,Car,42,Male,70,Yes,Drunk Driving
+54,2024-02-02,00:57:52,South Louis,Rainy,Snowy,Dark with street lights,2,0,Serious,Car,60,Female,90,No,Other
+55,2023-05-14,08:01:10,Hawkinsbury,Rainy,Snowy,Daylight,4,2,Serious,Bus,45,Female,30,Yes,Drunk Driving
+56,2025-03-19,18:55:45,New Arthur,Rainy,Icy,Dark without lights,4,1,Fatal,Truck,56,Female,110,No,Bad Weather
+57,2023-10-31,18:23:27,South Maryberg,Clear,Wet,Dark with street lights,4,1,Minor,Motorbike,53,Male,50,No,Mechanical Failure
+58,2023-12-28,18:44:29,East Melissaville,Windy,Icy,Dark with street lights,5,3,Minor,Car,27,Male,70,Yes,Mechanical Failure
+59,2023-09-26,06:49:41,Leetown,Clear,Snowy,Dark with street lights,3,0,Fatal,Bus,20,Female,110,Yes,Other
+60,2023-08-24,12:21:29,Donnatown,Clear,Snowy,Dark without lights,1,5,Fatal,Van,50,Female,110,No,Distracted Driving
+61,2025-04-23,21:01:42,Melindaview,Fog,Wet,Dark with street lights,1,5,Fatal,Motorbike,57,Female,30,Yes,Distracted Driving
+62,2023-06-20,08:55:50,Lake Robertshire,Fog,Snowy,Daylight,1,0,Fatal,Bus,26,Male,30,No,Mechanical Failure
+63,2024-03-30,04:26:42,Rebeccaton,Windy,Wet,Dark with street lights,4,2,Fatal,Truck,53,Female,30,No,Mechanical Failure
+64,2024-10-22,19:33:07,West Stephanieborough,Clear,Wet,Dark without lights,1,2,Fatal,Motorbike,59,Female,90,No,Mechanical Failure
+65,2023-08-31,10:31:08,Meganfurt,Rainy,Icy,Dark with street lights,5,0,Serious,Motorbike,78,Female,110,Yes,Overspeeding
+66,2024-05-14,08:54:31,Suzannemouth,Fog,Icy,Daylight,3,1,Minor,Bus,66,Male,30,Yes,Overspeeding
+67,2023-12-09,09:41:35,Port Michael,Clear,Dry,Dark with street lights,4,5,Minor,Bicycle,37,Male,70,Yes,Other
+68,2024-06-19,01:09:04,North David,Windy,Snowy,Daylight,2,0,Serious,Bus,63,Female,90,Yes,Overspeeding
+69,2023-07-28,03:30:22,Donnaside,Windy,Wet,Daylight,3,0,Minor,Bus,74,Female,50,Yes,Distracted Driving
+70,2023-07-09,20:38:22,Ronaldborough,Stormy,Icy,Dark without lights,5,1,Fatal,Bus,72,Male,30,Yes,Mechanical Failure
+71,2023-06-15,00:52:41,East Parker,Fog,Icy,Daylight,5,0,Fatal,Bicycle,41,Female,90,No,Overspeeding
+72,2024-11-05,19:58:13,Barretthaven,Fog,Dry,Dark without lights,4,0,Serious,Truck,39,Male,50,No,Bad Weather
+73,2024-09-25,18:44:05,Clarkberg,Windy,Wet,Dark without lights,4,1,Serious,Motorbike,75,Male,30,No,Bad Weather
+74,2023-05-16,12:37:07,New Donald,Clear,Icy,Dark with street lights,2,4,Fatal,Bus,27,Male,110,Yes,Other
+75,2023-07-23,20:22:33,North Margaretland,Clear,Dry,Daylight,2,5,Fatal,Bicycle,47,Female,110,No,Mechanical Failure
+76,2025-01-05,14:25:53,North Emilyview,Rainy,Wet,Daylight,1,3,Serious,Car,56,Male,30,Yes,Mechanical Failure
+77,2025-01-01,10:09:09,East Jasonfort,Rainy,Dry,Dark without lights,3,3,Fatal,Car,47,Female,90,Yes,Other
+78,2023-08-14,00:01:16,East Sonya,Rainy,Snowy,Dark with street lights,5,3,Fatal,Van,72,Male,90,No,Bad Weather
+79,2024-01-04,03:25:30,Henrymouth,Rainy,Dry,Dark without lights,2,1,Fatal,Car,51,Male,90,No,Mechanical Failure
+80,2024-11-04,11:51:15,Parkershire,Snow,Icy,Daylight,5,3,Serious,Bus,19,Female,90,Yes,Drunk Driving
+81,2025-02-12,14:32:51,Port Meganton,Windy,Snowy,Daylight,5,4,Fatal,Motorbike,74,Female,50,Yes,Bad Weather
+82,2024-08-27,22:01:06,Kimborough,Clear,Icy,Dark without lights,3,0,Minor,Bus,26,Female,110,No,Distracted Driving
+83,2024-06-10,03:12:34,West Brittany,Snow,Wet,Dark with street lights,1,4,Minor,Bicycle,41,Male,50,Yes,Drunk Driving
+84,2024-10-28,00:56:51,Keithton,Rainy,Snowy,Daylight,4,0,Serious,Bus,57,Male,70,Yes,Other
+85,2023-09-01,10:49:20,North Tracey,Rainy,Snowy,Dark without lights,3,5,Fatal,Motorbike,80,Male,30,No,Mechanical Failure
+86,2023-11-21,02:27:10,Robertsonberg,Clear,Icy,Daylight,3,3,Fatal,Van,35,Female,110,No,Other
+87,2025-04-22,19:59:08,Bowmanburgh,Clear,Dry,Dark without lights,2,0,Minor,Van,61,Female,70,Yes,Drunk Driving
+88,2024-04-29,06:38:07,Palmerborough,Snow,Dry,Dark without lights,5,3,Minor,Motorbike,24,Male,90,Yes,Distracted Driving
+89,2024-12-02,07:22:08,New Taraport,Clear,Icy,Dark with street lights,4,5,Minor,Van,62,Female,90,No,Bad Weather
+90,2024-01-15,19:11:25,Williamsview,Stormy,Dry,Dark with street lights,3,4,Minor,Bus,73,Female,50,No,Overspeeding
+91,2023-04-30,14:20:19,Whitneyville,Rainy,Wet,Daylight,5,3,Serious,Truck,27,Male,70,No,Bad Weather
+92,2025-02-02,18:52:09,South Susanland,Rainy,Dry,Dark without lights,2,3,Fatal,Motorbike,60,Male,30,No,Bad Weather
+93,2025-04-21,19:57:21,Stacyberg,Stormy,Icy,Dark without lights,4,4,Minor,Van,74,Male,30,No,Mechanical Failure
+94,2024-06-15,10:38:13,Smithville,Rainy,Dry,Daylight,2,4,Fatal,Car,63,Female,110,No,Mechanical Failure
+95,2024-05-18,17:59:20,East Emilyberg,Clear,Dry,Dark without lights,1,3,Serious,Motorbike,66,Male,110,Yes,Mechanical Failure
+96,2024-11-28,05:50:36,Port Danieltown,Windy,Snowy,Dark without lights,2,0,Minor,Motorbike,77,Male,30,Yes,Distracted Driving
+97,2024-04-07,13:02:44,East Samuelton,Fog,Wet,Dark without lights,4,2,Minor,Van,51,Female,110,No,Other
+98,2025-03-29,10:30:06,Port Robert,Clear,Snowy,Daylight,1,4,Minor,Van,56,Female,50,No,Overspeeding
+99,2024-05-19,10:58:11,North Annafurt,Snow,Snowy,Daylight,5,1,Serious,Motorbike,25,Male,90,No,Distracted Driving
+100,2024-03-05,00:17:57,Branditon,Clear,Snowy,Dark without lights,3,4,Fatal,Bicycle,78,Male,70,No,Distracted Driving
+101,2024-04-18,13:20:07,Scottstad,Stormy,Dry,Dark with street lights,4,5,Serious,Motorbike,45,Male,90,Yes,Bad Weather
+102,2024-09-19,02:55:56,Taylorfurt,Snow,Icy,Daylight,5,5,Serious,Bicycle,80,Female,50,No,Overspeeding
+103,2024-02-24,02:35:50,Riosmouth,Rainy,Dry,Daylight,3,0,Fatal,Bus,33,Female,90,No,Mechanical Failure
+104,2023-10-28,16:58:12,Breannafurt,Fog,Wet,Daylight,5,2,Serious,Motorbike,76,Male,50,Yes,Drunk Driving
+105,2024-10-09,14:18:19,South Juan,Stormy,Dry,Dark with street lights,4,4,Fatal,Car,50,Female,110,Yes,Drunk Driving
+106,2025-03-07,09:49:10,Port Carlos,Clear,Wet,Dark with street lights,1,3,Fatal,Bus,32,Female,50,Yes,Other
+107,2024-03-15,22:55:42,New William,Stormy,Wet,Dark without lights,3,3,Serious,Car,70,Male,70,No,Drunk Driving
+108,2024-10-31,03:46:18,West Lindsay,Rainy,Wet,Dark with street lights,4,5,Minor,Van,61,Male,110,No,Other
+109,2023-08-23,02:58:21,Nataliestad,Snow,Dry,Dark without lights,1,4,Minor,Van,48,Female,50,Yes,Bad Weather
+110,2024-06-21,13:08:46,Abbotthaven,Snow,Icy,Dark without lights,2,1,Serious,Van,21,Male,50,No,Overspeeding
+111,2024-03-08,11:20:40,South Kari,Windy,Snowy,Daylight,2,4,Minor,Truck,80,Male,50,Yes,Overspeeding
+112,2025-03-27,05:48:43,Carterbury,Stormy,Wet,Dark without lights,4,2,Serious,Bicycle,64,Female,70,No,Mechanical Failure
+113,2023-12-06,16:02:14,New Ericamouth,Rainy,Dry,Daylight,2,1,Fatal,Motorbike,63,Male,30,Yes,Drunk Driving
+114,2023-06-23,06:58:06,Beasleyview,Snow,Icy,Dark without lights,1,2,Fatal,Bus,68,Male,110,No,Overspeeding
+115,2025-01-31,09:25:09,Marcfort,Snow,Wet,Daylight,2,1,Fatal,Van,55,Male,30,No,Drunk Driving
+116,2024-01-01,10:09:49,West Natalie,Rainy,Icy,Dark with street lights,2,0,Fatal,Bus,79,Female,30,No,Overspeeding
+117,2024-09-05,08:15:28,East Peterchester,Windy,Wet,Dark without lights,4,3,Fatal,Bicycle,35,Male,70,No,Drunk Driving
+118,2024-07-22,15:48:17,Lake Carrie,Clear,Dry,Dark without lights,3,5,Minor,Van,67,Male,110,No,Bad Weather
+119,2024-12-05,10:48:18,Bradleymouth,Snow,Wet,Dark with street lights,4,5,Minor,Van,18,Male,50,Yes,Bad Weather
+120,2024-12-27,18:36:48,Reesehaven,Stormy,Icy,Dark with street lights,2,3,Serious,Motorbike,60,Female,70,Yes,Other
+121,2024-08-02,20:33:10,New Willie,Fog,Icy,Daylight,2,5,Serious,Motorbike,47,Male,30,No,Distracted Driving
+122,2024-08-11,06:59:31,New Katherine,Fog,Icy,Daylight,4,5,Serious,Truck,18,Male,90,Yes,Drunk Driving
+123,2025-02-13,08:23:42,Port Feliciaport,Clear,Icy,Dark with street lights,1,4,Fatal,Motorbike,26,Female,70,Yes,Overspeeding
+124,2024-10-11,02:07:44,Moranburgh,Snow,Dry,Dark without lights,5,2,Serious,Bicycle,27,Female,110,Yes,Overspeeding
+125,2024-01-01,01:31:50,North Alecburgh,Clear,Wet,Daylight,2,1,Serious,Van,79,Male,110,Yes,Overspeeding
+126,2024-04-21,18:34:17,Joanhaven,Clear,Snowy,Dark without lights,4,0,Serious,Motorbike,65,Male,30,Yes,Bad Weather
+127,2024-12-25,22:26:06,Lake Ryanbury,Stormy,Wet,Dark without lights,5,5,Serious,Van,30,Male,70,Yes,Mechanical Failure
+128,2025-01-05,08:04:39,South Jennifer,Clear,Dry,Daylight,3,3,Fatal,Bus,18,Female,110,Yes,Drunk Driving
+129,2023-12-05,21:24:15,West Devin,Rainy,Wet,Daylight,3,2,Fatal,Motorbike,59,Female,50,Yes,Distracted Driving
+130,2024-12-29,22:57:28,Port Oscar,Clear,Icy,Dark without lights,4,2,Minor,Bus,58,Male,50,No,Bad Weather
+131,2023-05-15,21:59:39,East Jessetown,Snow,Dry,Dark with street lights,1,4,Fatal,Bus,71,Female,110,No,Distracted Driving
+132,2023-11-26,01:07:05,Lake Regina,Fog,Icy,Daylight,5,0,Minor,Motorbike,24,Female,110,Yes,Overspeeding
+133,2025-01-13,18:51:54,New Ashleyland,Rainy,Icy,Dark with street lights,2,1,Serious,Motorbike,78,Male,110,Yes,Other
+134,2025-01-11,00:05:07,South Sarah,Fog,Snowy,Daylight,1,0,Serious,Bus,36,Female,110,Yes,Other
+135,2023-06-21,17:46:25,Port Thomas,Fog,Snowy,Dark without lights,1,2,Serious,Motorbike,59,Male,110,No,Mechanical Failure
+136,2023-11-01,11:21:20,South Kimberly,Clear,Snowy,Dark without lights,3,2,Serious,Bus,31,Male,50,No,Bad Weather
+137,2025-04-17,18:18:55,Patrickhaven,Snow,Icy,Daylight,4,4,Fatal,Car,27,Female,110,Yes,Overspeeding
+138,2023-07-26,06:03:57,Rhondamouth,Rainy,Dry,Daylight,4,3,Fatal,Van,55,Female,110,No,Other
+139,2024-11-21,19:19:17,Port Patriciabury,Windy,Icy,Dark with street lights,5,5,Fatal,Car,30,Male,30,Yes,Drunk Driving
+140,2024-12-20,12:25:43,East Dianahaven,Fog,Snowy,Dark without lights,1,2,Serious,Van,73,Male,90,Yes,Distracted Driving
+141,2023-09-24,09:20:05,New Gregorymouth,Windy,Snowy,Daylight,1,1,Minor,Bus,53,Female,50,Yes,Other
+142,2025-04-11,06:39:02,East Laura,Clear,Icy,Daylight,5,3,Serious,Motorbike,47,Female,70,No,Other
+143,2023-09-21,10:20:26,Johnsonbury,Clear,Snowy,Dark with street lights,5,5,Serious,Motorbike,76,Female,50,Yes,Distracted Driving
+144,2025-04-20,07:24:46,Martinezburgh,Fog,Wet,Dark without lights,3,4,Minor,Van,18,Male,70,Yes,Distracted Driving
+145,2023-12-03,17:21:01,North Stevenstad,Stormy,Dry,Daylight,4,2,Serious,Van,27,Male,110,Yes,Drunk Driving
+146,2024-10-14,17:06:08,Gwendolynmouth,Stormy,Dry,Dark without lights,3,5,Serious,Car,52,Male,50,Yes,Drunk Driving
+147,2025-02-21,05:39:38,West Jamesborough,Windy,Dry,Dark with street lights,2,3,Fatal,Motorbike,24,Male,50,No,Distracted Driving
+148,2024-06-16,21:55:21,Dianechester,Stormy,Icy,Dark with street lights,1,5,Fatal,Bicycle,78,Male,50,Yes,Bad Weather
+149,2024-10-24,22:44:30,Careyville,Clear,Snowy,Dark without lights,1,4,Fatal,Van,76,Male,50,Yes,Drunk Driving
+150,2024-06-19,05:00:45,Lake Phillip,Fog,Wet,Dark without lights,4,3,Minor,Motorbike,77,Female,50,Yes,Overspeeding
+151,2024-11-25,08:41:09,Jonesbury,Clear,Icy,Dark without lights,5,5,Serious,Bicycle,80,Female,70,Yes,Overspeeding
+152,2024-09-20,11:47:44,North Melissaview,Windy,Snowy,Daylight,5,0,Minor,Motorbike,67,Female,110,Yes,Overspeeding
+153,2024-01-11,08:46:57,South Veronica,Stormy,Dry,Dark with street lights,4,4,Serious,Motorbike,59,Male,70,No,Distracted Driving
+154,2024-10-29,00:31:06,Stephaniefurt,Stormy,Dry,Dark with street lights,4,3,Fatal,Motorbike,53,Female,70,Yes,Distracted Driving
+155,2024-10-05,09:03:00,Parkerstad,Clear,Dry,Dark with street lights,3,5,Minor,Motorbike,45,Female,110,No,Distracted Driving
+156,2023-05-03,04:04:04,South Marymouth,Rainy,Dry,Daylight,4,0,Minor,Bicycle,65,Male,70,Yes,Bad Weather
+157,2024-05-16,04:29:37,Haleyburgh,Clear,Snowy,Dark without lights,4,5,Minor,Motorbike,32,Male,50,Yes,Distracted Driving
+158,2024-04-08,07:56:51,Lake Stephen,Stormy,Dry,Dark with street lights,5,5,Fatal,Bus,42,Male,90,Yes,Bad Weather
+159,2023-05-22,19:27:53,Jacksonmouth,Stormy,Wet,Dark without lights,2,4,Minor,Van,22,Female,110,Yes,Overspeeding
+160,2023-10-01,19:51:59,North Lindsaymouth,Rainy,Snowy,Dark with street lights,5,5,Fatal,Van,48,Female,50,Yes,Other
+161,2023-09-08,08:30:22,South Mandymouth,Clear,Icy,Dark with street lights,1,0,Fatal,Car,77,Male,110,Yes,Drunk Driving
+162,2024-10-06,02:56:44,East Stephaniechester,Fog,Dry,Daylight,1,2,Fatal,Bicycle,20,Male,110,Yes,Distracted Driving
+163,2023-05-10,01:12:42,Lake Leahbury,Stormy,Dry,Dark with street lights,4,1,Fatal,Bus,69,Female,50,No,Mechanical Failure
+164,2024-02-08,14:44:55,Danielland,Clear,Icy,Daylight,5,2,Minor,Truck,61,Male,70,No,Mechanical Failure
+165,2024-05-19,23:09:28,Lake David,Snow,Dry,Dark with street lights,2,3,Minor,Truck,78,Male,30,Yes,Bad Weather
+166,2023-09-01,18:19:50,Espinozahaven,Windy,Dry,Dark with street lights,5,4,Fatal,Van,57,Male,50,Yes,Other
+167,2023-06-28,22:26:24,New Thomasland,Snow,Dry,Daylight,4,0,Serious,Motorbike,47,Female,70,No,Other
+168,2024-09-25,02:32:11,Contrerasfurt,Stormy,Wet,Dark with street lights,1,2,Fatal,Bus,69,Female,30,Yes,Other
+169,2024-11-10,15:29:09,North Linda,Rainy,Wet,Dark without lights,4,4,Serious,Van,19,Female,70,No,Drunk Driving
+170,2023-09-21,16:13:02,Port Jeremybury,Windy,Icy,Daylight,3,3,Fatal,Van,75,Male,110,Yes,Bad Weather
+171,2024-05-21,10:49:27,North Sean,Rainy,Dry,Daylight,4,2,Fatal,Van,55,Male,110,Yes,Mechanical Failure
+172,2024-10-24,02:55:29,New Kyleshire,Clear,Snowy,Dark without lights,1,4,Fatal,Truck,74,Male,70,Yes,Distracted Driving
+173,2024-09-25,14:27:26,Lake Johnnyburgh,Windy,Dry,Dark without lights,2,3,Fatal,Bus,33,Female,110,Yes,Mechanical Failure
+174,2023-09-11,21:30:18,Kathrynstad,Stormy,Wet,Dark without lights,2,3,Serious,Car,57,Male,90,Yes,Bad Weather
+175,2024-05-09,06:08:38,Esteston,Stormy,Dry,Dark without lights,3,3,Fatal,Motorbike,65,Female,90,Yes,Overspeeding
+176,2023-10-12,17:15:04,Collierville,Windy,Icy,Daylight,2,2,Serious,Car,49,Female,30,No,Other
+177,2025-03-30,00:36:09,Michaelport,Fog,Icy,Dark with street lights,1,4,Fatal,Truck,22,Male,30,Yes,Other
+178,2023-12-11,23:42:45,Huynhside,Windy,Dry,Dark with street lights,5,1,Minor,Bicycle,23,Male,70,No,Other
+179,2024-11-18,02:22:46,Crawfordfurt,Stormy,Icy,Daylight,3,4,Serious,Truck,37,Female,30,Yes,Overspeeding
+180,2024-08-25,03:50:45,Amandamouth,Snow,Wet,Dark with street lights,2,0,Minor,Car,19,Female,30,Yes,Other
+181,2024-12-31,17:26:12,Abbottburgh,Snow,Icy,Dark without lights,2,4,Fatal,Van,54,Female,90,Yes,Other
+182,2023-08-10,23:15:27,Richardborough,Rainy,Icy,Dark without lights,3,0,Fatal,Truck,54,Male,30,No,Overspeeding
+183,2024-08-30,05:51:39,North Daniel,Clear,Wet,Dark without lights,5,1,Serious,Bus,29,Female,30,No,Bad Weather
+184,2024-07-03,18:54:46,Jenkinsview,Fog,Snowy,Dark with street lights,4,4,Serious,Van,36,Female,110,No,Drunk Driving
+185,2024-06-20,00:06:53,Port Sabrina,Clear,Wet,Dark without lights,4,2,Fatal,Van,78,Male,110,No,Mechanical Failure
+186,2024-04-29,17:38:32,North Jeremiahstad,Stormy,Wet,Daylight,2,4,Fatal,Bicycle,80,Male,50,No,Distracted Driving
+187,2024-03-14,15:23:20,New Darrell,Stormy,Snowy,Daylight,2,3,Minor,Motorbike,65,Male,50,No,Drunk Driving
+188,2024-09-26,18:01:26,South Christianfort,Clear,Wet,Dark with street lights,1,5,Fatal,Motorbike,65,Male,30,No,Distracted Driving
+189,2023-06-23,18:42:46,Lake Kimberlymouth,Snow,Icy,Dark without lights,3,4,Minor,Motorbike,61,Male,90,Yes,Distracted Driving
+190,2025-03-06,16:51:48,Jessicaton,Snow,Snowy,Dark without lights,5,2,Fatal,Truck,53,Male,30,No,Other
+191,2023-06-13,20:43:27,New Edwardstad,Clear,Dry,Dark with street lights,4,4,Minor,Truck,60,Male,50,Yes,Overspeeding
+192,2023-12-22,10:43:49,Josephfurt,Snow,Wet,Dark without lights,3,1,Fatal,Motorbike,22,Male,50,Yes,Bad Weather
+193,2024-11-29,07:44:26,Lake Christopher,Stormy,Wet,Dark with street lights,3,1,Minor,Car,44,Male,110,Yes,Overspeeding
+194,2023-08-19,11:00:31,East Emmaborough,Stormy,Wet,Daylight,1,5,Minor,Motorbike,57,Male,90,Yes,Distracted Driving
+195,2023-06-12,09:53:11,Maloneside,Snow,Dry,Dark with street lights,2,2,Minor,Bus,42,Female,110,No,Bad Weather
+196,2025-04-04,06:21:13,New Robert,Stormy,Icy,Dark with street lights,1,5,Minor,Bicycle,62,Male,110,Yes,Distracted Driving
+197,2023-10-22,19:59:00,Adrienneshire,Clear,Snowy,Dark without lights,2,4,Minor,Truck,36,Male,110,Yes,Mechanical Failure
+198,2024-08-07,04:54:01,Mirandaberg,Snow,Icy,Dark with street lights,4,2,Minor,Bus,21,Female,50,No,Bad Weather
+199,2025-03-06,11:22:56,West Jamesmouth,Clear,Icy,Dark with street lights,1,4,Serious,Truck,41,Male,110,No,Distracted Driving
+200,2024-09-18,09:49:59,Meganchester,Stormy,Wet,Dark with street lights,3,5,Fatal,Bus,39,Female,30,Yes,Other
+201,2023-12-05,07:27:02,Leeshire,Fog,Wet,Dark with street lights,3,2,Fatal,Car,42,Male,90,Yes,Bad Weather
+202,2024-05-23,11:56:24,New Kiara,Fog,Wet,Dark without lights,4,5,Minor,Bus,53,Female,90,No,Mechanical Failure
+203,2024-10-29,02:01:05,Whiteland,Windy,Wet,Dark with street lights,5,1,Minor,Motorbike,42,Female,70,Yes,Distracted Driving
+204,2024-09-10,06:09:07,Haashaven,Rainy,Icy,Dark with street lights,5,5,Serious,Car,54,Male,30,No,Bad Weather
+205,2024-06-26,16:36:12,Lopezton,Windy,Dry,Dark without lights,1,5,Minor,Van,57,Female,50,Yes,Overspeeding
+206,2024-09-24,11:00:45,Debbiefort,Rainy,Wet,Dark with street lights,5,2,Fatal,Truck,62,Female,30,No,Bad Weather
+207,2023-11-04,20:58:29,Kathymouth,Snow,Snowy,Dark with street lights,5,4,Minor,Truck,50,Female,90,Yes,Drunk Driving
+208,2024-07-17,03:19:39,Donnaburgh,Clear,Wet,Dark with street lights,4,5,Serious,Motorbike,63,Female,50,No,Drunk Driving
+209,2023-11-15,12:38:05,West Susan,Clear,Dry,Dark without lights,5,5,Minor,Van,30,Female,50,Yes,Drunk Driving
+210,2023-11-15,08:06:53,Dunlapville,Stormy,Wet,Dark with street lights,5,4,Serious,Truck,37,Female,50,No,Distracted Driving
+211,2024-10-18,16:52:45,South David,Rainy,Dry,Dark with street lights,4,2,Serious,Van,62,Male,110,Yes,Overspeeding
+212,2024-01-26,23:07:11,Tiffanyborough,Clear,Icy,Dark without lights,5,1,Serious,Truck,20,Male,70,Yes,Overspeeding
+213,2024-04-19,16:23:07,New Carlosmouth,Clear,Icy,Dark without lights,2,2,Fatal,Car,75,Male,110,Yes,Other
+214,2024-07-22,10:23:52,Santiagoside,Clear,Snowy,Daylight,2,5,Fatal,Motorbike,67,Female,70,No,Distracted Driving
+215,2025-03-09,12:14:01,Douglasport,Windy,Snowy,Dark without lights,1,2,Fatal,Car,40,Female,30,Yes,Other
+216,2024-09-11,13:56:13,North Ronald,Clear,Wet,Dark without lights,5,5,Minor,Van,18,Female,110,Yes,Bad Weather
+217,2025-01-14,20:05:21,Transide,Stormy,Icy,Dark without lights,2,5,Serious,Bicycle,62,Male,30,No,Distracted Driving
+218,2023-07-27,18:57:35,Kaneside,Fog,Wet,Daylight,4,1,Fatal,Van,65,Male,110,No,Overspeeding
+219,2025-01-22,13:42:55,Smithchester,Snow,Wet,Dark without lights,2,4,Serious,Motorbike,68,Female,50,No,Other
+220,2024-02-02,12:48:52,Jacobmouth,Fog,Icy,Daylight,3,1,Minor,Bicycle,64,Female,90,No,Distracted Driving
+221,2024-09-11,17:25:20,Parksburgh,Clear,Wet,Dark without lights,2,5,Serious,Van,34,Male,70,Yes,Bad Weather
+222,2024-02-13,10:12:24,East John,Snow,Dry,Dark without lights,5,2,Serious,Car,51,Male,50,No,Distracted Driving
+223,2024-06-22,20:18:54,Leehaven,Windy,Icy,Dark with street lights,5,0,Fatal,Motorbike,59,Female,50,Yes,Overspeeding
+224,2025-03-24,19:52:38,Lake Johnfort,Clear,Dry,Dark without lights,1,5,Minor,Car,73,Male,70,No,Overspeeding
+225,2023-10-07,18:29:42,Stephanieland,Windy,Icy,Dark with street lights,1,4,Fatal,Car,34,Female,30,No,Other
+226,2023-10-28,20:19:33,Marybury,Rainy,Icy,Dark without lights,3,1,Minor,Motorbike,46,Female,50,Yes,Mechanical Failure
+227,2023-08-18,01:36:49,Lake Timothy,Clear,Snowy,Daylight,3,5,Fatal,Car,26,Male,50,No,Mechanical Failure
+228,2024-06-30,19:08:46,Kelleystad,Snow,Dry,Dark with street lights,5,3,Serious,Truck,63,Male,90,No,Mechanical Failure
+229,2023-09-19,19:03:34,Alexanderside,Stormy,Snowy,Dark with street lights,2,0,Minor,Motorbike,39,Female,110,No,Mechanical Failure
+230,2024-11-11,14:34:24,Lake Laurenbury,Rainy,Icy,Daylight,3,3,Minor,Bus,73,Male,70,Yes,Other
+231,2024-12-13,19:56:28,New Justinhaven,Fog,Dry,Daylight,4,0,Minor,Bicycle,50,Male,30,Yes,Bad Weather
+232,2025-02-19,04:32:24,Lake Anna,Clear,Icy,Daylight,4,3,Minor,Bus,55,Female,70,No,Overspeeding
+233,2024-09-05,15:19:55,South Maureen,Windy,Dry,Daylight,1,3,Fatal,Motorbike,32,Female,90,No,Other
+234,2023-07-06,00:20:35,Lake Elijahchester,Clear,Snowy,Dark without lights,5,2,Serious,Van,56,Male,30,Yes,Drunk Driving
+235,2024-06-07,09:26:53,Christopherville,Stormy,Wet,Dark with street lights,2,0,Minor,Truck,43,Female,90,No,Bad Weather
+236,2025-03-15,07:22:35,Port Sydney,Fog,Snowy,Dark without lights,5,2,Fatal,Car,34,Female,70,No,Overspeeding
+237,2025-02-01,08:14:00,Kellymouth,Windy,Icy,Dark without lights,5,4,Serious,Car,33,Male,90,No,Other
+238,2025-01-27,12:07:17,West Micheleborough,Stormy,Dry,Daylight,2,5,Fatal,Car,30,Male,70,Yes,Overspeeding
+239,2024-07-09,19:15:56,Lake John,Clear,Wet,Daylight,2,4,Serious,Bus,78,Female,110,No,Bad Weather
+240,2023-04-30,17:15:39,Kyleberg,Fog,Snowy,Dark without lights,3,2,Fatal,Truck,66,Male,50,No,Drunk Driving
+241,2024-07-14,03:25:10,Lewisbury,Stormy,Wet,Daylight,3,4,Fatal,Bus,66,Male,110,Yes,Bad Weather
+242,2023-11-25,02:58:12,Longbury,Stormy,Icy,Dark without lights,4,0,Minor,Car,73,Male,90,No,Drunk Driving
+243,2023-06-09,17:11:39,North Maxwellhaven,Fog,Dry,Dark with street lights,2,3,Minor,Motorbike,40,Female,30,No,Distracted Driving
+244,2025-02-13,22:36:42,Huberfort,Stormy,Icy,Dark without lights,4,2,Minor,Motorbike,59,Female,90,Yes,Mechanical Failure
+245,2024-03-29,10:37:02,Sandrastad,Stormy,Snowy,Dark with street lights,3,4,Fatal,Motorbike,37,Male,30,No,Bad Weather
+246,2023-05-21,11:18:34,Rhondatown,Snow,Wet,Dark with street lights,1,4,Fatal,Motorbike,48,Female,50,Yes,Drunk Driving
+247,2024-08-12,17:42:08,Hicksland,Fog,Wet,Dark with street lights,4,4,Minor,Bicycle,79,Female,50,No,Mechanical Failure
+248,2024-03-06,04:05:20,South Brandonfurt,Windy,Snowy,Dark with street lights,3,5,Serious,Bicycle,24,Male,70,No,Distracted Driving
+249,2025-01-02,09:39:49,East Angelatown,Snow,Wet,Dark with street lights,5,0,Fatal,Car,40,Male,110,Yes,Distracted Driving
+250,2025-03-08,08:57:12,Port Kathleen,Stormy,Wet,Dark without lights,4,1,Minor,Van,66,Female,50,Yes,Distracted Driving
+251,2024-07-06,22:29:33,Courtneyfort,Windy,Wet,Dark without lights,5,1,Minor,Motorbike,60,Male,50,Yes,Bad Weather
+252,2025-04-17,14:01:58,North Emilyshire,Stormy,Wet,Dark with street lights,4,0,Serious,Motorbike,22,Male,90,No,Drunk Driving
+253,2023-08-02,04:23:52,Lake Benjaminside,Windy,Wet,Dark without lights,2,4,Minor,Bus,61,Male,110,Yes,Mechanical Failure
+254,2025-02-13,09:49:38,East Timothymouth,Rainy,Icy,Dark with street lights,1,0,Minor,Motorbike,71,Female,50,Yes,Mechanical Failure
+255,2023-05-10,12:18:10,North Nicholasview,Stormy,Dry,Daylight,1,5,Minor,Car,22,Male,50,No,Bad Weather
+256,2025-01-10,03:13:12,Markhaven,Windy,Wet,Dark with street lights,5,5,Minor,Motorbike,30,Male,30,Yes,Overspeeding
+257,2024-06-19,01:25:27,Johnstad,Clear,Snowy,Daylight,4,1,Fatal,Bicycle,34,Male,50,No,Other
+258,2024-06-07,21:49:10,Lake Janetborough,Rainy,Snowy,Dark without lights,4,0,Minor,Truck,69,Female,70,Yes,Bad Weather
+259,2023-09-02,11:54:41,New Katherineport,Fog,Snowy,Dark without lights,3,3,Serious,Car,61,Male,70,No,Drunk Driving
+260,2023-08-26,03:47:08,Michaelfort,Windy,Dry,Dark without lights,5,3,Serious,Bicycle,29,Male,50,Yes,Other
+261,2024-05-07,07:25:28,Wallaceland,Fog,Icy,Daylight,3,5,Minor,Bicycle,33,Male,30,Yes,Distracted Driving
+262,2024-06-01,14:32:50,Wilsonview,Stormy,Icy,Daylight,1,2,Fatal,Van,31,Male,110,Yes,Mechanical Failure
+263,2025-01-07,13:12:52,Bradleyland,Windy,Snowy,Dark without lights,4,2,Minor,Motorbike,54,Male,50,No,Mechanical Failure
+264,2024-08-11,14:14:48,Chasetown,Clear,Dry,Dark without lights,4,2,Minor,Bus,49,Female,110,Yes,Other
+265,2024-07-22,03:24:37,Lake Darren,Clear,Snowy,Dark with street lights,1,3,Serious,Bus,33,Male,110,No,Other
+266,2024-12-23,09:53:02,West Brandonmouth,Rainy,Dry,Dark with street lights,3,1,Minor,Car,63,Female,70,No,Distracted Driving
+267,2023-05-10,19:42:01,Port Ruthbury,Stormy,Dry,Dark with street lights,2,5,Minor,Motorbike,29,Female,70,Yes,Distracted Driving
+268,2024-10-26,20:23:25,New Ericland,Rainy,Dry,Daylight,1,2,Fatal,Bus,78,Male,30,Yes,Other
+269,2024-07-17,20:14:06,Goodwinview,Fog,Wet,Dark without lights,3,3,Fatal,Bicycle,42,Male,50,Yes,Drunk Driving
+270,2025-04-03,07:10:10,Port Sara,Rainy,Icy,Dark with street lights,2,4,Fatal,Van,41,Male,90,No,Bad Weather
+271,2024-07-15,09:29:52,Obrienshire,Stormy,Wet,Daylight,3,5,Minor,Car,43,Male,110,Yes,Other
+272,2025-03-23,22:54:28,Port Laurenside,Clear,Wet,Dark with street lights,2,2,Serious,Bus,39,Female,30,Yes,Distracted Driving
+273,2024-09-16,15:03:09,Melissaburgh,Stormy,Snowy,Daylight,5,1,Serious,Bicycle,52,Female,90,Yes,Bad Weather
+274,2025-01-22,13:26:41,Gregoryborough,Clear,Wet,Dark with street lights,2,4,Minor,Motorbike,41,Female,110,No,Overspeeding
+275,2025-03-09,23:37:11,Patriciaville,Rainy,Wet,Dark without lights,3,3,Minor,Car,76,Male,70,No,Other
+276,2023-09-29,08:21:58,North Deborah,Windy,Snowy,Daylight,5,4,Fatal,Truck,69,Female,70,Yes,Mechanical Failure
+277,2024-05-17,18:06:29,South Kelliton,Clear,Dry,Daylight,2,1,Minor,Bicycle,20,Female,110,Yes,Drunk Driving
+278,2025-04-03,00:12:45,South Kimberly,Windy,Dry,Dark with street lights,4,1,Fatal,Bicycle,50,Female,70,Yes,Mechanical Failure
+279,2025-03-25,16:19:20,New Traceytown,Rainy,Wet,Daylight,3,3,Fatal,Motorbike,30,Male,90,No,Bad Weather
+280,2024-03-25,19:20:11,North Ana,Windy,Icy,Dark without lights,4,0,Serious,Car,29,Female,50,Yes,Drunk Driving
+281,2024-03-31,07:08:39,Katherineview,Snow,Icy,Daylight,3,4,Serious,Bicycle,36,Male,90,No,Overspeeding
+282,2024-04-15,03:00:48,Port Scottview,Fog,Wet,Dark with street lights,2,1,Minor,Van,71,Female,50,No,Other
+283,2023-09-11,14:39:14,Annaport,Clear,Dry,Dark without lights,2,2,Minor,Car,35,Female,110,Yes,Drunk Driving
+284,2024-10-21,09:13:05,South Crystaltown,Snow,Snowy,Dark without lights,1,1,Serious,Bus,72,Male,30,No,Bad Weather
+285,2024-01-28,20:56:31,New Aaronstad,Fog,Snowy,Dark with street lights,4,4,Serious,Motorbike,34,Male,50,Yes,Distracted Driving
+286,2023-10-18,08:49:57,Lake Randy,Rainy,Icy,Dark without lights,5,3,Minor,Bus,60,Male,70,No,Overspeeding
+287,2024-02-25,00:45:01,Timothyberg,Rainy,Dry,Daylight,5,1,Minor,Motorbike,71,Female,110,No,Distracted Driving
+288,2023-11-27,00:44:58,Port Lisafurt,Snow,Snowy,Daylight,2,2,Minor,Truck,77,Female,30,Yes,Drunk Driving
+289,2025-04-12,13:45:00,Stephanieburgh,Snow,Snowy,Dark with street lights,1,0,Serious,Motorbike,48,Female,50,Yes,Drunk Driving
+290,2024-03-02,21:43:39,Brandonberg,Fog,Icy,Daylight,5,3,Minor,Bus,22,Male,70,No,Mechanical Failure
+291,2023-05-31,22:34:57,Jonesberg,Rainy,Icy,Daylight,1,0,Minor,Bicycle,74,Female,70,Yes,Bad Weather
+292,2024-08-01,09:54:51,West Diamondview,Windy,Snowy,Dark with street lights,1,2,Minor,Van,31,Male,30,Yes,Mechanical Failure
+293,2023-11-20,18:36:06,Jamesland,Snow,Icy,Daylight,4,2,Minor,Truck,66,Male,90,No,Bad Weather
+294,2024-10-09,13:02:48,North Matthewchester,Windy,Icy,Dark with street lights,4,4,Fatal,Van,23,Female,50,No,Overspeeding
+295,2023-05-21,16:32:53,Kyliechester,Fog,Icy,Dark with street lights,4,2,Serious,Van,48,Male,90,No,Drunk Driving
+296,2023-08-05,02:41:44,New Stephen,Clear,Wet,Dark with street lights,2,1,Fatal,Bicycle,59,Female,50,Yes,Overspeeding
+297,2023-08-18,09:13:53,Jaimeshire,Snow,Dry,Daylight,4,2,Serious,Bicycle,56,Female,70,Yes,Distracted Driving
+298,2024-01-05,16:35:31,West Codyview,Fog,Snowy,Dark without lights,2,5,Minor,Van,22,Female,90,No,Overspeeding
+299,2024-02-14,07:03:32,Wheelerberg,Windy,Dry,Dark with street lights,3,4,Fatal,Motorbike,71,Male,50,Yes,Other
+300,2024-05-05,13:36:06,Stephanieport,Snow,Snowy,Daylight,1,1,Minor,Van,64,Female,50,No,Overspeeding
+301,2023-06-16,22:15:07,East Joshua,Fog,Icy,Dark without lights,2,3,Fatal,Car,70,Female,70,No,Other
+302,2024-06-02,00:18:02,North Charlestown,Stormy,Snowy,Daylight,1,4,Fatal,Bus,79,Female,30,No,Drunk Driving
+303,2023-09-23,10:01:58,Port Wendyborough,Clear,Snowy,Dark with street lights,5,2,Serious,Bicycle,24,Male,110,No,Mechanical Failure
+304,2024-07-01,13:53:35,West Anthonyborough,Fog,Dry,Dark with street lights,2,0,Fatal,Van,51,Female,110,No,Distracted Driving
+305,2024-09-14,03:34:40,South Kimberly,Stormy,Icy,Daylight,5,5,Minor,Motorbike,48,Male,90,Yes,Bad Weather
+306,2024-10-27,22:24:44,Sarahland,Windy,Dry,Daylight,1,2,Minor,Van,75,Female,30,No,Drunk Driving
+307,2024-11-18,23:48:51,Gonzalesfurt,Stormy,Icy,Dark without lights,1,3,Minor,Motorbike,67,Female,50,Yes,Drunk Driving
+308,2024-09-30,18:50:01,Elizabethport,Snow,Snowy,Dark with street lights,3,1,Serious,Van,22,Male,90,Yes,Distracted Driving
+309,2023-08-08,09:26:13,North Dawn,Windy,Wet,Dark with street lights,4,4,Serious,Motorbike,67,Male,90,No,Distracted Driving
+310,2023-09-17,05:19:18,Anthonymouth,Fog,Icy,Dark with street lights,1,2,Minor,Bicycle,49,Male,110,No,Other
+311,2025-01-01,09:15:56,Faithfort,Clear,Wet,Daylight,4,1,Serious,Bicycle,70,Male,90,Yes,Overspeeding
+312,2023-07-06,18:31:10,South Sandra,Clear,Snowy,Dark without lights,1,2,Serious,Bicycle,18,Female,30,No,Other
+313,2024-09-23,22:46:27,West James,Stormy,Icy,Daylight,5,5,Serious,Truck,71,Female,110,Yes,Drunk Driving
+314,2024-12-07,01:19:40,Brendaview,Stormy,Icy,Dark with street lights,4,4,Minor,Van,43,Female,110,Yes,Distracted Driving
+315,2024-03-24,22:01:42,Elizabethside,Snow,Dry,Dark with street lights,4,3,Minor,Van,69,Female,70,No,Mechanical Failure
+316,2025-04-05,11:57:39,Calebmouth,Clear,Wet,Dark without lights,5,2,Minor,Bicycle,63,Male,30,No,Other
+317,2024-04-24,16:31:17,Martineztown,Rainy,Snowy,Daylight,1,1,Minor,Bicycle,42,Male,110,No,Mechanical Failure
+318,2023-07-08,18:07:22,South Heidimouth,Windy,Icy,Dark with street lights,1,5,Serious,Car,30,Female,90,No,Other
+319,2025-02-12,10:55:54,East Darlene,Stormy,Snowy,Daylight,4,0,Minor,Truck,43,Male,70,No,Distracted Driving
+320,2024-07-13,06:18:43,Thomasmouth,Rainy,Icy,Dark with street lights,5,0,Fatal,Bicycle,29,Male,50,No,Distracted Driving
+321,2024-07-31,22:44:24,Hinesburgh,Fog,Wet,Daylight,2,2,Serious,Truck,59,Female,90,Yes,Other
+322,2023-10-13,11:19:25,South Kevinhaven,Snow,Snowy,Daylight,2,2,Fatal,Truck,31,Male,70,No,Overspeeding
+323,2024-02-15,21:24:52,New Russell,Snow,Icy,Dark without lights,3,2,Serious,Bicycle,45,Male,70,No,Other
+324,2023-09-03,08:12:07,Lake David,Rainy,Wet,Dark with street lights,5,5,Minor,Bus,66,Male,50,Yes,Other
+325,2024-05-10,21:22:46,East Shannon,Rainy,Wet,Daylight,5,3,Fatal,Bicycle,50,Female,110,Yes,Other
+326,2024-11-22,07:05:28,East Randyside,Fog,Wet,Daylight,4,2,Minor,Truck,21,Male,110,Yes,Drunk Driving
+327,2023-11-13,00:02:01,Port Lisaville,Stormy,Snowy,Daylight,5,3,Minor,Truck,54,Male,110,No,Mechanical Failure
+328,2024-08-16,17:13:27,Gardnerbury,Stormy,Snowy,Dark without lights,4,3,Serious,Bus,40,Male,90,No,Overspeeding
+329,2024-05-26,16:59:05,West Dustin,Fog,Icy,Dark with street lights,2,1,Minor,Bus,73,Male,110,Yes,Bad Weather
+330,2023-10-18,12:30:33,Blairland,Fog,Icy,Dark with street lights,5,5,Fatal,Bus,80,Female,50,No,Overspeeding
+331,2024-04-16,16:38:00,Edwinport,Clear,Dry,Dark with street lights,1,3,Serious,Van,68,Male,110,No,Other
+332,2024-09-26,13:40:52,Lake Kellyfurt,Windy,Snowy,Daylight,1,5,Fatal,Motorbike,77,Female,90,Yes,Mechanical Failure
+333,2024-04-16,12:35:11,Elizabethtown,Fog,Snowy,Daylight,2,5,Fatal,Van,28,Female,50,No,Distracted Driving
+334,2024-11-06,21:00:21,Thomasside,Snow,Snowy,Dark without lights,4,1,Minor,Car,63,Female,50,No,Overspeeding
+335,2023-08-07,18:27:07,Bonillabury,Fog,Wet,Daylight,4,1,Serious,Van,44,Female,50,Yes,Mechanical Failure
+336,2024-03-12,06:47:59,Port Eric,Windy,Wet,Daylight,2,3,Serious,Car,70,Female,90,Yes,Distracted Driving
+337,2023-10-28,09:52:49,Lake Christine,Fog,Dry,Daylight,2,4,Minor,Car,40,Female,50,Yes,Other
+338,2025-03-17,22:29:45,South Jasmineburgh,Windy,Icy,Dark with street lights,2,1,Fatal,Bicycle,46,Male,110,No,Bad Weather
+339,2023-10-26,22:04:34,West Melanie,Fog,Wet,Daylight,4,5,Fatal,Truck,73,Male,70,No,Bad Weather
+340,2024-10-14,10:46:04,East Anitaville,Clear,Snowy,Daylight,5,4,Minor,Van,20,Female,90,No,Bad Weather
+341,2024-08-15,13:17:02,Anthonychester,Fog,Wet,Daylight,4,0,Fatal,Truck,80,Male,90,Yes,Mechanical Failure
+342,2023-10-29,03:30:36,Lake Andrea,Clear,Wet,Dark without lights,5,2,Serious,Car,73,Male,90,Yes,Distracted Driving
+343,2024-08-28,09:26:18,New Randy,Clear,Snowy,Dark with street lights,1,5,Minor,Bicycle,18,Male,50,No,Distracted Driving
+344,2024-05-14,16:29:58,West David,Snow,Icy,Dark without lights,3,0,Serious,Bicycle,73,Male,90,Yes,Drunk Driving
+345,2023-12-15,14:10:54,Dianastad,Clear,Snowy,Dark with street lights,2,2,Minor,Van,77,Male,110,No,Overspeeding
+346,2023-05-02,02:56:10,Robinsonbury,Stormy,Snowy,Dark without lights,1,0,Fatal,Truck,25,Male,30,No,Mechanical Failure
+347,2023-07-09,05:00:01,South Joshua,Stormy,Icy,Daylight,2,5,Fatal,Van,73,Male,110,Yes,Other
+348,2024-04-14,23:39:48,Alexanderfurt,Fog,Dry,Daylight,1,3,Serious,Bicycle,18,Male,70,Yes,Other
+349,2025-03-31,21:53:16,Kathleenmouth,Rainy,Dry,Daylight,5,0,Serious,Van,41,Female,70,Yes,Bad Weather
+350,2024-07-28,00:24:58,Bartonhaven,Stormy,Icy,Daylight,4,4,Fatal,Car,75,Female,90,No,Drunk Driving
+351,2023-10-29,05:39:43,East Meganville,Stormy,Snowy,Dark with street lights,1,0,Serious,Motorbike,71,Male,50,No,Distracted Driving
+352,2024-09-24,09:08:25,West Mariahaven,Windy,Wet,Dark without lights,4,1,Serious,Motorbike,73,Male,30,No,Other
+353,2024-03-23,10:27:23,Mirandaside,Fog,Icy,Dark with street lights,1,1,Serious,Car,65,Male,30,No,Bad Weather
+354,2023-06-08,04:24:19,Kellyshire,Rainy,Snowy,Dark without lights,3,3,Fatal,Truck,75,Male,70,Yes,Mechanical Failure
+355,2023-12-07,03:46:24,Garciastad,Windy,Dry,Dark with street lights,3,5,Fatal,Bus,57,Male,110,No,Other
+356,2024-07-08,13:25:26,Stevenborough,Fog,Dry,Dark without lights,3,3,Fatal,Bus,22,Female,90,No,Bad Weather
+357,2025-04-15,21:29:12,North Kimberlyhaven,Clear,Dry,Daylight,4,0,Minor,Car,63,Male,90,No,Overspeeding
+358,2023-04-30,13:49:53,Ericfort,Stormy,Dry,Dark with street lights,2,1,Serious,Van,66,Male,30,Yes,Distracted Driving
+359,2024-12-15,12:25:09,New Karen,Snow,Snowy,Daylight,4,5,Minor,Van,70,Female,90,Yes,Other
+360,2024-11-29,11:22:59,New Stephen,Stormy,Dry,Daylight,5,0,Serious,Car,68,Male,90,Yes,Other
+361,2023-11-30,00:37:31,North Kevinberg,Stormy,Wet,Dark without lights,1,1,Minor,Van,24,Female,70,No,Bad Weather
+362,2024-05-13,10:26:29,Martinview,Snow,Icy,Dark without lights,1,5,Serious,Truck,48,Female,70,Yes,Bad Weather
+363,2024-08-02,04:36:49,Robertmouth,Windy,Icy,Dark with street lights,4,3,Minor,Truck,27,Male,50,No,Drunk Driving
+364,2024-04-27,03:51:46,Kevintown,Stormy,Snowy,Dark with street lights,1,4,Minor,Bus,35,Female,50,Yes,Bad Weather
+365,2024-06-07,18:13:09,Thompsonchester,Fog,Dry,Dark without lights,3,3,Minor,Car,71,Male,50,Yes,Distracted Driving
+366,2023-09-22,03:44:41,Robertshaven,Clear,Snowy,Daylight,1,2,Minor,Bus,26,Male,30,Yes,Overspeeding
+367,2024-01-16,10:19:24,Mcculloughfurt,Stormy,Dry,Daylight,4,3,Minor,Bicycle,28,Male,30,Yes,Distracted Driving
+368,2024-05-05,19:22:59,West Bruce,Snow,Icy,Dark with street lights,2,4,Fatal,Car,54,Male,70,No,Overspeeding
+369,2023-12-14,14:06:49,East Michelemouth,Rainy,Dry,Dark with street lights,5,1,Fatal,Truck,37,Male,70,Yes,Drunk Driving
+370,2024-01-24,22:12:03,Lake Karen,Snow,Snowy,Dark without lights,1,5,Minor,Bicycle,18,Female,50,No,Distracted Driving
+371,2024-09-27,00:11:09,North Laurenside,Windy,Dry,Dark without lights,5,3,Fatal,Car,65,Female,30,No,Overspeeding
+372,2023-10-23,18:56:15,West Corybury,Windy,Icy,Dark with street lights,2,4,Serious,Bicycle,73,Female,30,Yes,Drunk Driving
+373,2025-01-15,12:30:27,North Christopherside,Fog,Wet,Dark without lights,5,1,Minor,Car,19,Female,50,No,Mechanical Failure
+374,2023-08-12,20:10:50,South Marcburgh,Rainy,Icy,Daylight,3,3,Serious,Bicycle,46,Male,30,No,Mechanical Failure
+375,2024-02-23,21:43:12,Lake Carolfurt,Snow,Icy,Dark without lights,2,5,Fatal,Bus,75,Male,30,No,Other
+376,2024-11-12,10:44:28,Davidfort,Snow,Icy,Dark with street lights,1,2,Minor,Van,48,Female,50,No,Drunk Driving
+377,2024-05-21,18:26:07,Ortegamouth,Windy,Dry,Daylight,1,4,Fatal,Bicycle,60,Male,70,No,Mechanical Failure
+378,2023-10-18,17:59:28,Lake Taylorberg,Stormy,Snowy,Dark with street lights,3,2,Fatal,Truck,27,Female,30,Yes,Distracted Driving
+379,2024-07-18,17:48:50,Wallermouth,Clear,Snowy,Dark with street lights,3,3,Fatal,Car,62,Male,30,No,Distracted Driving
+380,2024-10-16,08:55:02,Lake Samuel,Snow,Wet,Dark without lights,2,0,Serious,Car,61,Male,50,No,Mechanical Failure
+381,2024-11-19,03:22:07,Nathanshire,Fog,Icy,Daylight,3,0,Minor,Car,50,Male,50,Yes,Mechanical Failure
+382,2024-03-28,11:24:48,New Joel,Windy,Icy,Daylight,4,4,Fatal,Motorbike,79,Male,50,Yes,Drunk Driving
+383,2025-03-18,12:28:05,West Michaelside,Snow,Snowy,Dark without lights,3,2,Fatal,Van,31,Male,110,Yes,Bad Weather
+384,2024-05-29,09:19:51,Porterborough,Stormy,Icy,Dark without lights,5,5,Minor,Van,34,Male,110,Yes,Drunk Driving
+385,2025-03-05,08:35:19,Simontown,Fog,Icy,Dark with street lights,2,2,Serious,Truck,26,Female,50,No,Mechanical Failure
+386,2024-12-14,15:40:08,North Johnton,Rainy,Snowy,Daylight,2,2,Serious,Bicycle,49,Male,110,No,Bad Weather
+387,2025-02-15,14:05:46,East Tammyside,Windy,Dry,Dark with street lights,4,3,Minor,Car,38,Male,50,No,Distracted Driving
+388,2024-02-21,02:00:17,New Savannah,Clear,Wet,Dark without lights,3,5,Minor,Bus,21,Female,30,Yes,Distracted Driving
+389,2023-05-25,06:10:11,South Kelli,Snow,Icy,Dark with street lights,1,3,Serious,Bicycle,47,Female,70,No,Drunk Driving
+390,2023-11-24,11:35:43,Franklinville,Clear,Snowy,Daylight,2,5,Fatal,Motorbike,38,Male,70,Yes,Overspeeding
+391,2023-11-21,20:54:43,Port Karenmouth,Windy,Wet,Dark with street lights,1,3,Minor,Bus,55,Male,30,Yes,Other
+392,2023-08-04,17:43:42,Lake Carlport,Snow,Snowy,Dark without lights,3,0,Minor,Truck,47,Male,50,Yes,Other
+393,2024-04-12,19:11:56,Gregoryland,Rainy,Snowy,Dark without lights,5,1,Serious,Car,67,Female,30,Yes,Drunk Driving
+394,2025-04-22,02:14:01,Lopezshire,Snow,Wet,Dark with street lights,2,5,Minor,Van,70,Female,70,Yes,Drunk Driving
+395,2024-01-25,11:53:38,Lake Paul,Stormy,Dry,Dark with street lights,5,1,Fatal,Truck,31,Male,30,No,Mechanical Failure
+396,2023-12-17,08:43:18,East Cheryl,Stormy,Icy,Dark with street lights,3,2,Fatal,Truck,33,Female,110,Yes,Other
+397,2024-12-30,02:57:24,East Vanessachester,Rainy,Snowy,Dark without lights,5,5,Serious,Van,32,Female,70,Yes,Overspeeding
+398,2024-05-13,13:16:52,Port Dustinfort,Clear,Wet,Daylight,1,1,Fatal,Bus,75,Male,90,Yes,Distracted Driving
+399,2024-01-09,18:28:11,Andersonchester,Stormy,Wet,Dark without lights,5,5,Serious,Bus,46,Male,90,No,Overspeeding
+400,2023-09-03,21:06:16,East Marychester,Clear,Icy,Daylight,3,0,Minor,Bicycle,72,Female,110,Yes,Other
+401,2025-02-12,08:42:19,West Brett,Stormy,Wet,Daylight,4,0,Fatal,Bus,78,Male,30,No,Bad Weather
+402,2024-01-20,20:17:39,Cookside,Rainy,Icy,Dark without lights,3,1,Fatal,Motorbike,50,Female,30,Yes,Mechanical Failure
+403,2023-12-22,14:23:04,Port Danside,Stormy,Dry,Dark without lights,5,2,Serious,Car,27,Female,70,Yes,Overspeeding
+404,2024-04-14,08:30:48,South Oscar,Windy,Snowy,Dark with street lights,2,5,Serious,Bus,72,Female,30,No,Overspeeding
+405,2024-07-05,10:33:46,Mcdonaldhaven,Snow,Snowy,Dark with street lights,2,5,Minor,Truck,19,Female,50,Yes,Distracted Driving
+406,2024-09-17,13:37:56,Moralesland,Fog,Snowy,Daylight,5,3,Minor,Van,37,Female,70,No,Mechanical Failure
+407,2023-05-22,04:29:47,Loriland,Clear,Icy,Daylight,1,4,Fatal,Motorbike,52,Male,110,Yes,Mechanical Failure
+408,2025-02-09,01:37:45,Michelleport,Windy,Wet,Dark with street lights,3,2,Fatal,Car,58,Female,110,No,Distracted Driving
+409,2023-05-27,11:10:54,North Joshuaview,Rainy,Snowy,Daylight,2,5,Fatal,Motorbike,35,Male,70,No,Distracted Driving
+410,2024-05-07,00:37:37,Lake Sarahburgh,Windy,Icy,Dark with street lights,5,5,Serious,Bicycle,45,Male,70,No,Bad Weather
+411,2024-11-02,07:48:46,Arianaburgh,Clear,Snowy,Daylight,1,5,Fatal,Truck,56,Male,50,Yes,Other
+412,2024-01-28,02:44:55,Millerborough,Clear,Snowy,Dark with street lights,1,1,Serious,Bus,63,Female,30,Yes,Other
+413,2024-05-27,05:18:58,Kathyberg,Fog,Wet,Dark without lights,2,1,Fatal,Bicycle,32,Male,30,Yes,Mechanical Failure
+414,2024-05-04,18:31:35,Monroetown,Stormy,Icy,Daylight,5,2,Minor,Motorbike,32,Male,50,No,Bad Weather
+415,2023-09-07,02:51:19,Shawnshire,Rainy,Snowy,Dark with street lights,2,2,Serious,Bus,47,Male,70,Yes,Mechanical Failure
+416,2024-06-11,20:12:10,Patrickfort,Clear,Icy,Daylight,5,3,Serious,Bicycle,55,Female,50,Yes,Bad Weather
+417,2024-05-29,21:40:31,Lake Scott,Fog,Dry,Dark with street lights,1,2,Fatal,Bus,41,Male,50,Yes,Overspeeding
+418,2023-08-23,05:44:20,New Daleton,Windy,Dry,Daylight,5,0,Serious,Bus,50,Male,50,No,Distracted Driving
+419,2024-04-23,17:55:47,Lake Joseph,Fog,Wet,Dark without lights,1,3,Minor,Bus,53,Male,50,Yes,Other
+420,2024-06-03,09:36:21,South Kristinabury,Stormy,Wet,Dark with street lights,2,2,Fatal,Truck,66,Male,90,No,Other
+421,2023-08-22,21:59:28,East Thomasstad,Rainy,Icy,Daylight,4,5,Serious,Truck,49,Male,50,No,Mechanical Failure
+422,2025-01-14,00:47:38,South Carlaside,Snow,Snowy,Dark with street lights,5,1,Minor,Van,37,Female,90,Yes,Overspeeding
+423,2025-01-27,21:32:00,Grantside,Windy,Dry,Dark without lights,5,4,Fatal,Bicycle,20,Male,70,No,Mechanical Failure
+424,2024-09-16,04:08:55,Robinsonburgh,Stormy,Snowy,Dark with street lights,1,1,Fatal,Truck,74,Female,50,Yes,Bad Weather
+425,2024-04-02,21:49:24,Martinezview,Snow,Dry,Dark without lights,2,3,Fatal,Motorbike,77,Male,110,No,Drunk Driving
+426,2024-12-06,04:39:00,Carolynstad,Stormy,Snowy,Dark with street lights,1,4,Minor,Car,69,Male,50,No,Other
+427,2024-04-16,19:36:47,Fernandezshire,Fog,Snowy,Dark without lights,2,1,Minor,Motorbike,74,Female,90,Yes,Other
+428,2024-08-28,09:23:52,North Jillton,Snow,Snowy,Dark with street lights,3,2,Serious,Bicycle,24,Female,110,Yes,Overspeeding
+429,2024-10-04,00:28:14,Port Kimberlybury,Windy,Wet,Dark without lights,4,4,Serious,Bus,18,Male,90,Yes,Mechanical Failure
+430,2024-12-15,22:08:33,East Susanhaven,Fog,Icy,Daylight,5,3,Serious,Bus,32,Female,50,No,Drunk Driving
+431,2023-08-23,20:55:32,Garciastad,Snow,Snowy,Dark without lights,4,5,Minor,Motorbike,21,Female,70,Yes,Mechanical Failure
+432,2024-08-17,20:10:18,Warrenland,Windy,Wet,Dark with street lights,2,3,Fatal,Car,52,Male,70,Yes,Mechanical Failure
+433,2024-02-11,08:46:45,Butlerside,Stormy,Dry,Dark without lights,3,2,Serious,Van,54,Male,70,Yes,Distracted Driving
+434,2024-09-26,04:52:38,Reynoldsfurt,Stormy,Wet,Dark without lights,2,5,Fatal,Bicycle,60,Female,110,Yes,Overspeeding
+435,2023-07-19,01:02:31,Lake Tony,Clear,Snowy,Dark with street lights,2,2,Fatal,Bus,53,Male,50,Yes,Mechanical Failure
+436,2024-06-23,12:14:40,Portermouth,Snow,Wet,Daylight,5,0,Minor,Bus,39,Male,110,No,Bad Weather
+437,2024-07-29,07:35:53,Marcoburgh,Snow,Wet,Dark with street lights,5,2,Minor,Bicycle,37,Female,70,No,Other
+438,2024-10-28,03:38:22,North Matthew,Rainy,Wet,Dark without lights,3,0,Minor,Motorbike,23,Female,70,Yes,Other
+439,2023-09-07,19:36:01,Antoniobury,Snow,Snowy,Daylight,3,1,Serious,Truck,26,Female,110,Yes,Drunk Driving
+440,2024-08-05,20:08:37,Arielland,Snow,Dry,Daylight,4,5,Serious,Truck,21,Male,30,Yes,Bad Weather
+441,2023-10-28,20:12:56,Pamelabury,Rainy,Icy,Daylight,1,0,Serious,Van,67,Male,110,No,Distracted Driving
+442,2025-01-22,00:38:07,Port Ronald,Stormy,Dry,Dark with street lights,5,0,Serious,Car,65,Male,110,Yes,Drunk Driving
+443,2025-04-02,19:03:31,West John,Clear,Snowy,Daylight,3,4,Fatal,Bicycle,66,Female,90,No,Other
+444,2024-04-18,05:52:53,Nicolemouth,Clear,Icy,Dark without lights,2,2,Minor,Car,51,Female,50,Yes,Overspeeding
+445,2024-09-09,09:16:05,South Bryan,Stormy,Snowy,Dark without lights,5,1,Fatal,Truck,57,Male,50,No,Distracted Driving
+446,2025-02-20,14:12:16,Port Robin,Windy,Icy,Dark with street lights,3,4,Minor,Car,61,Male,70,Yes,Distracted Driving
+447,2023-07-25,19:46:27,New Randy,Fog,Dry,Dark without lights,5,4,Minor,Bus,28,Female,70,No,Other
+448,2024-08-24,15:56:52,Danielleborough,Snow,Wet,Dark with street lights,4,2,Minor,Car,46,Female,90,No,Drunk Driving
+449,2024-11-26,12:05:40,Sharistad,Windy,Icy,Dark without lights,5,2,Serious,Bus,31,Female,50,No,Distracted Driving
+450,2023-07-12,08:31:55,West Laurahaven,Clear,Dry,Dark with street lights,2,3,Serious,Car,29,Male,50,No,Drunk Driving
+451,2023-12-17,17:54:59,East Aaronfurt,Stormy,Wet,Dark without lights,3,4,Fatal,Truck,57,Female,110,No,Mechanical Failure
+452,2024-06-03,13:25:42,Lake Diamondstad,Clear,Dry,Dark with street lights,2,3,Serious,Truck,37,Female,90,No,Mechanical Failure
+453,2024-11-10,18:03:52,Stevenmouth,Windy,Icy,Dark without lights,3,1,Minor,Car,64,Female,90,Yes,Distracted Driving
+454,2023-05-27,14:52:31,Port Charles,Snow,Dry,Dark without lights,5,2,Serious,Car,18,Female,90,No,Overspeeding
+455,2023-08-11,07:11:40,Ochoaview,Clear,Snowy,Dark without lights,1,0,Minor,Car,36,Female,90,No,Bad Weather
+456,2023-10-23,12:22:00,North Shelleyton,Stormy,Wet,Dark with street lights,5,4,Serious,Van,20,Male,90,Yes,Overspeeding
+457,2024-01-27,00:28:48,Aaronborough,Snow,Icy,Daylight,4,4,Minor,Motorbike,34,Male,70,No,Overspeeding
+458,2024-08-01,20:45:27,South Kevinhaven,Fog,Snowy,Dark with street lights,4,5,Fatal,Truck,49,Male,30,No,Drunk Driving
+459,2024-07-19,14:50:02,Lake Joshualand,Stormy,Icy,Dark with street lights,4,4,Serious,Car,41,Male,30,No,Drunk Driving
+460,2024-10-16,11:20:25,Reyesview,Clear,Dry,Dark without lights,2,2,Minor,Truck,58,Male,70,Yes,Other
+461,2024-04-16,01:31:02,Port Sandra,Clear,Dry,Dark with street lights,1,2,Serious,Bicycle,73,Male,30,No,Drunk Driving
+462,2024-09-26,23:40:02,South Shannon,Fog,Icy,Daylight,3,4,Fatal,Van,79,Female,110,Yes,Other
+463,2024-12-09,13:26:32,Reyesmouth,Clear,Wet,Dark with street lights,5,3,Fatal,Motorbike,18,Male,30,Yes,Bad Weather
+464,2024-08-25,06:52:09,Kelleyhaven,Snow,Wet,Dark with street lights,2,3,Minor,Van,43,Female,50,Yes,Drunk Driving
+465,2023-10-18,17:43:58,South Philip,Fog,Dry,Dark with street lights,3,2,Minor,Bus,33,Male,70,No,Bad Weather
+466,2024-09-25,02:18:20,North Anita,Snow,Snowy,Dark without lights,1,4,Serious,Motorbike,18,Female,30,Yes,Distracted Driving
+467,2024-11-24,23:01:35,Leslietown,Snow,Dry,Dark without lights,4,4,Serious,Bicycle,78,Male,110,Yes,Overspeeding
+468,2024-01-24,23:02:19,Danielview,Rainy,Snowy,Dark with street lights,4,0,Serious,Bus,74,Female,110,Yes,Other
+469,2024-01-20,04:44:43,Estradaland,Fog,Icy,Daylight,1,2,Minor,Bus,22,Female,90,No,Other
+470,2025-03-23,02:50:51,East Wendy,Clear,Icy,Dark with street lights,1,0,Serious,Motorbike,54,Female,110,No,Drunk Driving
+471,2024-06-18,17:24:55,Smithmouth,Stormy,Snowy,Dark with street lights,4,4,Minor,Motorbike,75,Female,70,Yes,Bad Weather
+472,2025-04-22,07:35:03,Estradaberg,Snow,Dry,Dark without lights,4,2,Serious,Car,59,Male,90,No,Overspeeding
+473,2024-05-27,11:45:26,Port Aaronshire,Stormy,Icy,Daylight,4,3,Serious,Truck,62,Female,30,No,Mechanical Failure
+474,2024-11-28,00:57:49,Smithchester,Fog,Wet,Dark without lights,4,1,Fatal,Bicycle,39,Female,70,No,Distracted Driving
+475,2024-02-13,23:57:11,West Douglas,Windy,Icy,Daylight,4,3,Minor,Motorbike,24,Male,70,Yes,Bad Weather
+476,2024-02-06,17:46:46,Lisafurt,Rainy,Snowy,Dark without lights,2,5,Fatal,Van,38,Female,110,No,Mechanical Failure
+477,2023-05-09,12:39:30,Coreyport,Snow,Dry,Dark without lights,5,4,Serious,Bicycle,22,Female,30,Yes,Drunk Driving
+478,2025-02-15,00:33:55,New Mary,Clear,Dry,Daylight,5,0,Fatal,Truck,44,Male,70,No,Mechanical Failure
+479,2024-04-07,21:14:38,Lake Alyssa,Fog,Snowy,Dark with street lights,3,4,Minor,Bus,77,Male,30,No,Distracted Driving
+480,2024-03-06,15:21:20,West Amandaville,Fog,Snowy,Dark with street lights,1,2,Fatal,Van,74,Male,90,No,Drunk Driving
+481,2023-09-24,07:37:58,Johnsontown,Rainy,Dry,Daylight,2,2,Serious,Car,76,Female,110,Yes,Other
+482,2023-10-22,06:36:40,Brewerport,Fog,Wet,Dark with street lights,1,2,Serious,Car,73,Male,110,Yes,Mechanical Failure
+483,2024-06-16,17:48:41,Contrerasfort,Windy,Icy,Dark with street lights,1,2,Minor,Bicycle,35,Male,70,No,Bad Weather
+484,2023-10-04,21:13:48,Deanberg,Windy,Snowy,Dark without lights,2,0,Fatal,Truck,28,Male,50,No,Overspeeding
+485,2023-11-13,09:11:26,West Briannabury,Clear,Dry,Dark with street lights,2,4,Serious,Car,39,Male,50,Yes,Drunk Driving
+486,2024-11-20,05:58:45,New Alan,Clear,Dry,Dark without lights,4,5,Minor,Truck,66,Female,90,No,Overspeeding
+487,2023-10-04,23:25:29,Gabriellemouth,Rainy,Snowy,Dark with street lights,2,0,Fatal,Motorbike,67,Female,30,Yes,Distracted Driving
+488,2023-05-10,18:30:28,Carrville,Clear,Icy,Daylight,3,0,Minor,Bicycle,62,Female,110,Yes,Overspeeding
+489,2023-09-02,10:13:26,Singletonstad,Stormy,Wet,Dark without lights,2,5,Serious,Motorbike,33,Male,110,No,Distracted Driving
+490,2024-02-05,14:33:52,Lake Candiceshire,Fog,Icy,Dark without lights,1,2,Fatal,Car,38,Male,50,Yes,Mechanical Failure
+491,2025-03-24,07:24:36,Torresfort,Stormy,Wet,Dark without lights,1,4,Fatal,Car,44,Female,110,Yes,Overspeeding
+492,2024-10-28,08:23:12,New Martin,Stormy,Wet,Daylight,3,3,Fatal,Truck,64,Female,110,No,Distracted Driving
+493,2023-10-21,08:34:48,Lake Gregoryport,Rainy,Wet,Dark with street lights,4,5,Serious,Van,62,Female,90,Yes,Mechanical Failure
+494,2024-12-11,22:15:58,North Anthonyfort,Stormy,Snowy,Dark with street lights,1,4,Fatal,Van,50,Female,30,Yes,Distracted Driving
+495,2024-06-28,22:58:44,New Coryhaven,Windy,Wet,Dark with street lights,2,0,Serious,Truck,63,Male,30,No,Mechanical Failure
+496,2025-02-13,19:49:43,New Charlesburgh,Stormy,Wet,Daylight,1,4,Fatal,Truck,72,Male,90,No,Mechanical Failure
+497,2025-02-23,18:19:04,Mclaughlinstad,Snow,Wet,Dark with street lights,3,2,Minor,Van,72,Female,50,Yes,Mechanical Failure
+498,2023-10-20,07:40:20,Kirbymouth,Snow,Icy,Dark with street lights,3,5,Fatal,Van,32,Female,50,No,Distracted Driving
+499,2023-05-11,17:09:31,East Ianhaven,Snow,Snowy,Dark with street lights,3,5,Serious,Bicycle,23,Female,90,No,Mechanical Failure
+500,2024-12-31,09:05:13,Port Matthew,Fog,Wet,Dark with street lights,1,1,Fatal,Van,63,Male,50,Yes,Drunk Driving
+501,2025-04-27,03:46:37,New Ryan,Stormy,Dry,Dark with street lights,4,4,Fatal,Car,24,Female,90,Yes,Mechanical Failure
+502,2024-05-07,03:23:14,Ruizport,Rainy,Icy,Daylight,4,0,Serious,Motorbike,65,Male,50,Yes,Overspeeding
+503,2023-09-20,17:04:19,Mackhaven,Clear,Dry,Dark without lights,3,5,Fatal,Truck,65,Male,70,No,Overspeeding
+504,2024-09-16,15:48:01,Rebeccabury,Windy,Icy,Dark without lights,5,4,Fatal,Motorbike,73,Female,30,Yes,Overspeeding
+505,2024-10-20,04:11:17,Derekfort,Rainy,Dry,Dark without lights,2,2,Minor,Bus,69,Female,110,Yes,Mechanical Failure
+506,2023-11-18,11:23:47,Port Johnbury,Windy,Wet,Daylight,3,4,Serious,Truck,21,Female,70,No,Drunk Driving
+507,2023-11-02,05:00:18,Potterchester,Windy,Dry,Dark without lights,1,3,Fatal,Bicycle,42,Male,90,Yes,Other
+508,2024-07-12,23:45:47,Taylormouth,Fog,Dry,Daylight,2,2,Fatal,Bicycle,62,Female,70,Yes,Drunk Driving
+509,2024-06-27,10:13:46,East Katie,Snow,Icy,Dark without lights,4,1,Minor,Bicycle,40,Male,90,Yes,Bad Weather
+510,2025-03-09,03:33:35,West Jennifertown,Rainy,Icy,Dark without lights,5,5,Serious,Car,72,Male,50,No,Overspeeding
+511,2023-09-08,05:44:40,Steeleville,Windy,Wet,Dark without lights,2,4,Serious,Bicycle,79,Male,110,Yes,Mechanical Failure
+512,2023-06-11,02:57:13,Port Travis,Windy,Dry,Daylight,3,2,Serious,Van,64,Male,90,Yes,Mechanical Failure
+513,2024-07-17,19:17:15,Matthewchester,Stormy,Icy,Daylight,1,0,Serious,Bus,65,Female,110,Yes,Bad Weather
+514,2024-07-05,04:03:32,Williamsside,Windy,Icy,Daylight,2,2,Fatal,Bus,26,Male,70,No,Mechanical Failure
+515,2024-08-30,14:57:38,Nguyenfurt,Snow,Icy,Dark with street lights,5,1,Serious,Motorbike,35,Female,50,No,Bad Weather
+516,2025-02-28,18:10:42,Hernandezshire,Fog,Dry,Dark without lights,2,2,Fatal,Car,67,Male,70,No,Drunk Driving
+517,2024-01-08,09:20:40,Kathrynburgh,Windy,Dry,Dark without lights,3,4,Fatal,Truck,36,Male,90,No,Other
+518,2024-03-07,12:54:13,Lorimouth,Clear,Dry,Dark without lights,2,1,Serious,Car,52,Female,50,Yes,Bad Weather
+519,2023-08-18,09:39:37,East Tiffanychester,Clear,Dry,Daylight,3,5,Fatal,Van,21,Male,90,No,Overspeeding
+520,2023-04-30,06:24:32,Brooksfurt,Rainy,Snowy,Dark without lights,2,1,Serious,Motorbike,60,Male,90,Yes,Drunk Driving
+521,2024-05-05,23:40:46,Wilkinsburgh,Rainy,Snowy,Dark with street lights,1,5,Serious,Car,76,Female,30,No,Other
+522,2023-05-13,03:58:35,Port Angelahaven,Clear,Wet,Dark with street lights,1,5,Minor,Bus,44,Female,30,Yes,Bad Weather
+523,2025-02-18,09:58:42,Lake Maryfort,Clear,Wet,Dark without lights,2,3,Minor,Motorbike,69,Female,30,No,Overspeeding
+524,2023-11-02,02:07:31,Port Vincent,Fog,Snowy,Daylight,4,3,Minor,Car,52,Female,30,No,Other
+525,2023-12-29,10:00:22,Lewisside,Snow,Icy,Dark with street lights,3,5,Serious,Motorbike,55,Male,30,No,Other
+526,2024-03-04,23:32:17,Hernandeztown,Clear,Snowy,Daylight,3,5,Fatal,Car,21,Male,50,Yes,Distracted Driving
+527,2023-10-21,08:38:09,New Jessicaside,Fog,Snowy,Dark without lights,3,3,Serious,Bicycle,58,Male,110,No,Other
+528,2023-09-23,05:13:21,New Katie,Stormy,Dry,Dark with street lights,1,0,Fatal,Truck,37,Male,90,Yes,Overspeeding
+529,2023-06-10,06:15:15,Port Sarah,Snow,Snowy,Daylight,1,1,Minor,Bus,70,Male,30,No,Drunk Driving
+530,2023-05-19,13:49:05,New Michelle,Clear,Icy,Dark with street lights,5,5,Minor,Bicycle,24,Male,50,Yes,Other
+531,2023-08-07,09:58:23,Lewisshire,Fog,Snowy,Dark with street lights,5,1,Minor,Truck,61,Female,110,Yes,Other
+532,2023-10-15,14:14:03,Olivershire,Windy,Icy,Daylight,1,1,Minor,Bicycle,48,Female,50,Yes,Distracted Driving
+533,2023-11-19,02:38:54,Sandrabury,Windy,Wet,Daylight,2,5,Fatal,Car,68,Male,70,No,Overspeeding
+534,2023-09-08,14:03:14,Danielberg,Clear,Snowy,Dark with street lights,4,4,Minor,Car,44,Female,110,No,Mechanical Failure
+535,2024-05-21,04:30:49,East Sharon,Fog,Wet,Daylight,2,0,Serious,Bus,67,Female,50,No,Distracted Driving
+536,2024-10-31,14:59:39,Lake Jeffreyfort,Fog,Snowy,Dark with street lights,3,3,Serious,Bus,77,Female,30,No,Mechanical Failure
+537,2024-06-28,08:46:00,South Matthew,Stormy,Snowy,Daylight,5,1,Fatal,Car,80,Male,30,Yes,Distracted Driving
+538,2025-02-22,21:24:06,East Michael,Stormy,Snowy,Dark with street lights,4,3,Serious,Car,48,Female,30,No,Drunk Driving
+539,2024-10-08,19:19:59,Lake Theresa,Rainy,Snowy,Daylight,3,0,Serious,Motorbike,28,Female,90,Yes,Bad Weather
+540,2023-10-31,18:13:55,Lake Denise,Windy,Wet,Daylight,2,3,Minor,Bus,53,Female,50,No,Bad Weather
+541,2023-07-20,22:29:11,Mooreshire,Windy,Icy,Dark without lights,4,5,Minor,Car,70,Male,30,No,Drunk Driving
+542,2023-06-08,10:51:54,Port Russell,Stormy,Wet,Dark with street lights,3,3,Minor,Bicycle,34,Male,30,Yes,Other
+543,2023-11-16,20:43:21,Jameschester,Fog,Wet,Daylight,3,5,Serious,Bus,35,Male,50,No,Overspeeding
+544,2023-05-02,08:57:00,Mackport,Clear,Dry,Daylight,1,2,Serious,Car,45,Male,70,No,Distracted Driving
+545,2025-02-02,13:31:30,Port Holly,Windy,Icy,Dark without lights,3,5,Minor,Bus,70,Male,50,Yes,Overspeeding
+546,2025-01-09,04:04:26,West Judithstad,Stormy,Snowy,Dark with street lights,5,0,Fatal,Bicycle,51,Female,50,No,Mechanical Failure
+547,2023-07-11,01:39:26,New Allenville,Stormy,Wet,Daylight,2,5,Fatal,Van,44,Female,90,No,Other
+548,2025-01-07,21:33:48,West Christian,Stormy,Snowy,Dark with street lights,2,4,Serious,Car,45,Female,50,Yes,Mechanical Failure
+549,2024-02-26,20:25:43,Lisamouth,Stormy,Icy,Dark with street lights,3,1,Minor,Bicycle,75,Male,90,No,Distracted Driving
+550,2025-01-24,07:33:31,Dodsonbury,Windy,Snowy,Dark without lights,2,2,Fatal,Bus,66,Female,50,Yes,Mechanical Failure
+551,2025-02-06,10:21:49,East Linda,Snow,Icy,Daylight,1,0,Minor,Motorbike,52,Female,110,Yes,Distracted Driving
+552,2023-11-08,18:55:40,East Steventown,Stormy,Snowy,Dark without lights,4,0,Fatal,Truck,41,Male,50,No,Overspeeding
+553,2024-05-25,03:34:16,Danieltown,Fog,Icy,Dark without lights,2,3,Fatal,Bus,22,Female,110,Yes,Mechanical Failure
+554,2023-11-15,08:24:18,South Alexandertown,Fog,Wet,Daylight,5,0,Serious,Bus,79,Female,110,No,Overspeeding
+555,2024-08-06,00:18:41,Williamsberg,Rainy,Icy,Daylight,5,0,Fatal,Van,34,Male,70,No,Drunk Driving
+556,2024-04-05,12:56:53,West Amandabury,Stormy,Wet,Daylight,2,5,Minor,Bicycle,58,Female,70,Yes,Bad Weather
+557,2023-12-19,17:34:55,South Gracehaven,Fog,Icy,Dark without lights,3,4,Fatal,Van,62,Female,50,No,Bad Weather
+558,2025-01-09,03:15:59,West Marcus,Snow,Snowy,Daylight,4,2,Serious,Bicycle,56,Female,90,No,Other
+559,2025-01-02,14:20:10,West Christopher,Rainy,Wet,Dark with street lights,4,0,Minor,Car,69,Female,70,Yes,Other
+560,2023-10-31,10:15:50,West Saraport,Fog,Wet,Daylight,5,3,Minor,Car,37,Female,110,No,Mechanical Failure
+561,2023-12-16,15:47:23,North Kyle,Clear,Snowy,Dark without lights,2,3,Serious,Truck,62,Female,110,Yes,Drunk Driving
+562,2024-01-30,08:59:09,East Timothyhaven,Clear,Dry,Dark with street lights,2,2,Fatal,Motorbike,57,Male,110,Yes,Other
+563,2025-01-15,09:26:29,North Justinburgh,Snow,Snowy,Daylight,2,4,Serious,Van,77,Male,90,Yes,Drunk Driving
+564,2024-01-18,00:51:59,Kevinborough,Clear,Wet,Daylight,4,2,Minor,Car,23,Female,70,No,Bad Weather
+565,2024-09-18,20:17:00,South Kathleen,Fog,Icy,Daylight,5,2,Minor,Motorbike,61,Male,70,Yes,Bad Weather
+566,2023-05-09,16:42:07,Chelseamouth,Snow,Snowy,Daylight,1,4,Minor,Motorbike,59,Female,30,Yes,Mechanical Failure
+567,2023-07-23,13:13:51,Aaronside,Stormy,Wet,Dark with street lights,2,1,Fatal,Bicycle,69,Male,110,No,Mechanical Failure
+568,2023-10-03,08:41:23,North John,Stormy,Icy,Daylight,5,5,Minor,Bicycle,78,Male,30,No,Bad Weather
+569,2023-10-06,07:17:02,West Robert,Snow,Icy,Dark with street lights,5,0,Serious,Motorbike,68,Female,70,No,Overspeeding
+570,2025-02-27,15:38:45,Fergusonfurt,Fog,Dry,Dark without lights,5,4,Serious,Van,40,Male,110,No,Overspeeding
+571,2024-01-10,14:14:22,Robbinston,Clear,Wet,Dark without lights,2,4,Serious,Truck,64,Female,90,No,Drunk Driving
+572,2023-08-13,17:31:32,New Sherrystad,Stormy,Icy,Daylight,2,0,Serious,Truck,25,Female,70,Yes,Other
+573,2023-10-21,21:39:46,Sparksland,Stormy,Snowy,Daylight,3,1,Serious,Car,30,Male,30,No,Other
+574,2024-06-16,19:43:34,Marystad,Fog,Icy,Dark with street lights,1,4,Minor,Motorbike,22,Male,30,Yes,Other
+575,2024-12-18,04:24:59,Port Mark,Stormy,Wet,Dark without lights,1,1,Minor,Truck,67,Male,30,No,Other
+576,2023-08-06,19:57:53,Mariaburgh,Clear,Snowy,Daylight,1,5,Minor,Bicycle,62,Female,70,Yes,Bad Weather
+577,2025-01-15,15:37:45,Julianfort,Clear,Wet,Dark with street lights,1,0,Fatal,Car,25,Female,70,Yes,Distracted Driving
+578,2024-10-27,02:21:03,Lesterfurt,Stormy,Wet,Dark with street lights,5,0,Minor,Bicycle,28,Female,50,No,Drunk Driving
+579,2023-05-09,02:25:08,Christianton,Fog,Dry,Daylight,4,5,Fatal,Bus,77,Male,30,Yes,Mechanical Failure
+580,2023-12-17,22:05:09,Hessberg,Fog,Icy,Daylight,4,5,Minor,Bicycle,37,Female,110,No,Overspeeding
+581,2023-10-20,07:33:54,Garnerstad,Fog,Snowy,Dark with street lights,1,4,Minor,Bicycle,52,Male,110,Yes,Mechanical Failure
+582,2023-08-29,07:42:57,New David,Snow,Dry,Daylight,1,1,Minor,Van,76,Female,90,Yes,Bad Weather
+583,2024-05-21,03:24:48,East Joshuachester,Stormy,Snowy,Dark without lights,2,5,Minor,Van,69,Male,50,No,Distracted Driving
+584,2023-09-12,01:18:54,Dawnbury,Rainy,Icy,Dark with street lights,2,0,Serious,Bus,77,Male,30,Yes,Drunk Driving
+585,2025-04-20,04:13:55,Levyville,Snow,Icy,Daylight,3,2,Minor,Van,72,Female,30,Yes,Drunk Driving
+586,2024-05-20,00:01:43,Ryanberg,Rainy,Wet,Daylight,5,3,Serious,Bicycle,72,Male,110,No,Drunk Driving
+587,2024-01-08,10:59:12,North Chris,Rainy,Icy,Dark without lights,5,5,Serious,Car,39,Female,70,Yes,Mechanical Failure
+588,2024-01-15,14:28:50,Harrismouth,Stormy,Snowy,Daylight,3,3,Serious,Van,51,Male,30,Yes,Other
+589,2024-01-05,23:53:59,South Sarahfurt,Stormy,Wet,Daylight,3,0,Minor,Van,55,Female,110,Yes,Drunk Driving
+590,2024-08-08,22:15:13,Bradleymouth,Clear,Dry,Daylight,4,1,Fatal,Motorbike,55,Female,70,No,Drunk Driving
+591,2024-01-12,18:18:09,North Deannaview,Windy,Dry,Dark without lights,5,5,Fatal,Truck,71,Male,90,Yes,Mechanical Failure
+592,2024-12-09,17:59:07,East Kristin,Fog,Snowy,Daylight,2,2,Fatal,Motorbike,79,Female,110,Yes,Distracted Driving
+593,2024-09-11,09:59:53,Mendozatown,Fog,Wet,Dark without lights,2,4,Fatal,Car,68,Female,110,No,Bad Weather
+594,2024-08-23,10:54:58,Butlerstad,Rainy,Dry,Dark with street lights,2,0,Minor,Van,52,Female,70,Yes,Other
+595,2024-11-07,12:54:40,Cunninghamfort,Stormy,Snowy,Daylight,3,0,Fatal,Motorbike,66,Male,110,Yes,Mechanical Failure
+596,2023-08-25,12:26:58,Taylorside,Rainy,Wet,Daylight,5,5,Serious,Truck,49,Male,70,No,Mechanical Failure
+597,2025-01-14,16:56:52,East Vanessa,Stormy,Snowy,Dark without lights,1,5,Serious,Motorbike,47,Female,110,Yes,Bad Weather
+598,2024-04-02,18:41:03,Ryanborough,Windy,Icy,Dark without lights,2,2,Fatal,Truck,63,Male,90,Yes,Other
+599,2025-03-09,01:34:49,Bennettburgh,Snow,Wet,Dark without lights,3,3,Minor,Truck,40,Male,70,No,Distracted Driving
+600,2023-12-11,09:37:45,West Ryanside,Fog,Icy,Daylight,1,4,Fatal,Car,23,Male,30,No,Bad Weather
+601,2025-03-10,16:32:42,East Christopherbury,Fog,Wet,Daylight,5,3,Fatal,Bus,49,Male,110,No,Other
+602,2025-03-30,13:31:33,South Jacquelinefurt,Fog,Dry,Daylight,3,1,Minor,Truck,30,Female,90,Yes,Distracted Driving
+603,2024-01-04,15:40:50,Thomasshire,Fog,Icy,Dark with street lights,1,5,Serious,Bicycle,79,Male,90,No,Bad Weather
+604,2023-08-02,00:56:17,West William,Windy,Icy,Dark with street lights,2,1,Minor,Car,40,Male,70,Yes,Other
+605,2025-04-25,18:23:03,Cohenton,Fog,Wet,Dark without lights,1,0,Minor,Truck,49,Female,90,Yes,Other
+606,2025-01-07,04:10:23,North Alexander,Windy,Icy,Dark without lights,4,3,Fatal,Truck,75,Male,30,Yes,Bad Weather
+607,2023-05-19,04:44:18,Sullivanfurt,Stormy,Wet,Dark without lights,5,2,Fatal,Car,28,Female,50,Yes,Overspeeding
+608,2024-09-05,15:23:48,Reginaldview,Snow,Dry,Dark with street lights,3,1,Minor,Truck,48,Female,90,No,Other
+609,2024-10-21,08:57:44,Susanville,Stormy,Snowy,Daylight,2,0,Minor,Truck,72,Female,110,Yes,Distracted Driving
+610,2024-08-31,23:03:09,Donovanfurt,Stormy,Snowy,Dark with street lights,2,0,Minor,Truck,80,Female,50,No,Drunk Driving
+611,2023-11-11,07:12:43,West Calebland,Rainy,Snowy,Dark with street lights,2,3,Serious,Van,55,Female,110,Yes,Mechanical Failure
+612,2024-08-23,12:42:07,Payneside,Snow,Dry,Dark without lights,2,1,Fatal,Motorbike,18,Male,110,Yes,Overspeeding
+613,2024-04-05,01:18:22,Abigailmouth,Clear,Wet,Daylight,1,3,Serious,Car,26,Male,50,No,Overspeeding
+614,2024-10-28,19:41:48,Crawfordshire,Rainy,Dry,Daylight,4,3,Serious,Car,39,Female,30,Yes,Mechanical Failure
+615,2024-12-28,09:58:29,East Jasmine,Rainy,Wet,Dark without lights,3,1,Fatal,Van,64,Male,110,No,Overspeeding
+616,2025-01-24,17:07:10,New Jamie,Fog,Wet,Daylight,5,2,Minor,Motorbike,76,Male,50,Yes,Mechanical Failure
+617,2024-12-17,02:52:59,Port Scotttown,Fog,Icy,Dark without lights,3,1,Serious,Truck,33,Female,110,No,Mechanical Failure
+618,2023-05-11,20:50:46,New Margaret,Fog,Icy,Dark without lights,4,1,Minor,Van,20,Female,70,No,Mechanical Failure
+619,2025-02-21,16:22:03,Moralesshire,Clear,Snowy,Dark without lights,4,2,Fatal,Car,68,Male,50,Yes,Distracted Driving
+620,2025-03-25,03:09:14,Jasontown,Snow,Snowy,Daylight,1,0,Serious,Bicycle,53,Male,90,Yes,Overspeeding
+621,2024-06-20,02:20:43,West Kenneth,Clear,Wet,Daylight,2,2,Serious,Car,40,Male,90,No,Bad Weather
+622,2024-03-01,19:25:14,Mcleantown,Stormy,Dry,Dark without lights,3,1,Minor,Bus,59,Female,70,No,Bad Weather
+623,2023-07-30,08:47:00,Watsonport,Rainy,Dry,Dark with street lights,3,1,Minor,Motorbike,28,Female,110,Yes,Overspeeding
+624,2025-01-04,09:10:13,Lake Barry,Fog,Dry,Daylight,4,4,Minor,Bus,22,Female,70,No,Mechanical Failure
+625,2023-04-29,06:34:36,South Michael,Rainy,Icy,Dark with street lights,1,5,Serious,Motorbike,25,Female,110,Yes,Other
+626,2024-08-25,18:00:54,Smithfort,Clear,Icy,Dark without lights,1,2,Serious,Bicycle,72,Female,70,No,Distracted Driving
+627,2024-04-08,10:19:31,Micheleside,Snow,Wet,Dark without lights,4,3,Minor,Motorbike,62,Female,30,No,Other
+628,2024-09-03,19:50:49,Reedfort,Stormy,Snowy,Daylight,1,2,Serious,Car,78,Female,110,Yes,Other
+629,2025-04-18,19:14:49,Coxmouth,Stormy,Snowy,Dark without lights,5,4,Fatal,Truck,47,Male,110,No,Drunk Driving
+630,2023-11-02,03:10:48,Port Lauramouth,Rainy,Wet,Dark with street lights,4,0,Fatal,Car,59,Female,70,Yes,Drunk Driving
+631,2024-02-04,02:53:02,East Christopherborough,Windy,Icy,Dark without lights,3,5,Fatal,Car,28,Male,50,No,Bad Weather
+632,2023-10-15,19:45:48,Sergiotown,Snow,Dry,Dark without lights,1,0,Serious,Truck,80,Male,50,No,Other
+633,2025-04-06,13:33:28,South Randy,Snow,Snowy,Daylight,5,1,Fatal,Bus,59,Female,90,No,Bad Weather
+634,2023-12-24,16:37:06,Lopezville,Stormy,Snowy,Dark without lights,5,4,Fatal,Truck,55,Female,30,Yes,Bad Weather
+635,2024-04-19,12:50:55,South Gary,Stormy,Wet,Dark with street lights,5,1,Minor,Bicycle,41,Female,50,No,Drunk Driving
+636,2023-06-03,14:04:12,East Johnchester,Clear,Snowy,Daylight,3,1,Serious,Bus,38,Female,30,No,Drunk Driving
+637,2024-10-06,07:13:17,North Gordonfurt,Snow,Snowy,Daylight,1,3,Fatal,Bus,44,Female,90,Yes,Bad Weather
+638,2025-04-17,00:10:26,Smithborough,Windy,Wet,Daylight,5,0,Serious,Bus,77,Female,50,No,Mechanical Failure
+639,2025-01-22,13:45:28,Manuelfurt,Rainy,Wet,Dark with street lights,4,0,Fatal,Bicycle,46,Female,90,No,Overspeeding
+640,2024-01-19,06:38:12,Michaelville,Clear,Icy,Dark without lights,1,0,Serious,Bus,44,Male,70,No,Bad Weather
+641,2023-12-02,14:08:11,Port Seanshire,Clear,Dry,Dark without lights,1,2,Serious,Car,44,Male,70,Yes,Distracted Driving
+642,2023-06-15,06:58:11,Mullinsberg,Stormy,Wet,Daylight,2,3,Serious,Bicycle,62,Male,30,Yes,Drunk Driving
+643,2024-09-06,20:13:38,Nicholasland,Stormy,Icy,Dark without lights,5,2,Serious,Van,42,Female,70,No,Drunk Driving
+644,2024-04-05,12:07:15,Ericaberg,Fog,Wet,Dark with street lights,3,2,Fatal,Bus,48,Male,70,No,Other
+645,2024-08-21,05:09:18,Timothytown,Stormy,Snowy,Dark without lights,5,1,Minor,Bicycle,32,Male,30,No,Drunk Driving
+646,2025-03-03,22:03:42,West William,Snow,Wet,Dark without lights,4,0,Serious,Van,34,Female,90,Yes,Overspeeding
+647,2025-01-13,04:37:55,South Miaburgh,Windy,Icy,Daylight,1,1,Fatal,Bicycle,34,Female,50,Yes,Distracted Driving
+648,2025-02-10,16:40:55,Oconnellmouth,Snow,Wet,Daylight,5,2,Minor,Motorbike,63,Male,90,Yes,Mechanical Failure
+649,2023-06-09,07:50:20,Erikaport,Windy,Wet,Dark with street lights,4,2,Minor,Van,57,Male,30,No,Overspeeding
+650,2023-09-09,13:57:26,Christineside,Rainy,Snowy,Dark without lights,4,1,Serious,Motorbike,67,Male,30,Yes,Bad Weather
+651,2023-09-25,14:07:28,North Jocelyn,Fog,Dry,Dark without lights,2,5,Fatal,Truck,26,Male,50,No,Bad Weather
+652,2024-09-27,17:43:59,Ronaldville,Stormy,Snowy,Dark with street lights,4,0,Minor,Motorbike,52,Female,30,Yes,Bad Weather
+653,2023-10-08,13:16:21,East Paulbury,Rainy,Wet,Dark without lights,2,3,Serious,Van,20,Male,30,Yes,Mechanical Failure
+654,2024-02-24,08:05:06,West Dominique,Windy,Dry,Dark without lights,3,1,Serious,Bicycle,39,Female,90,No,Other
+655,2025-03-26,13:11:35,Rebeccafort,Stormy,Wet,Dark with street lights,3,3,Serious,Motorbike,38,Male,90,Yes,Mechanical Failure
+656,2024-01-09,16:28:17,Lake Geoffreyport,Clear,Icy,Dark without lights,1,4,Minor,Bicycle,22,Male,70,Yes,Mechanical Failure
+657,2024-03-19,17:01:48,East Dylan,Fog,Icy,Dark with street lights,5,5,Minor,Bicycle,23,Male,110,No,Bad Weather
+658,2024-01-30,20:53:08,Reginaville,Fog,Icy,Dark with street lights,5,3,Minor,Van,22,Male,50,No,Distracted Driving
+659,2024-03-13,21:03:59,Kellyfurt,Snow,Wet,Dark without lights,4,1,Minor,Truck,40,Male,30,Yes,Drunk Driving
+660,2024-05-03,08:36:25,Jerrytown,Stormy,Icy,Daylight,1,4,Minor,Bicycle,60,Male,90,No,Overspeeding
+661,2024-08-17,02:32:14,Lake Ryan,Snow,Wet,Dark without lights,1,5,Fatal,Car,38,Male,50,No,Bad Weather
+662,2024-12-18,16:50:34,Lisaborough,Fog,Dry,Dark with street lights,3,3,Minor,Bus,39,Male,50,Yes,Distracted Driving
+663,2024-05-14,01:18:27,Port Jamesburgh,Rainy,Wet,Daylight,3,2,Fatal,Motorbike,72,Male,90,No,Mechanical Failure
+664,2023-09-19,03:15:48,Tammystad,Stormy,Icy,Dark with street lights,5,2,Minor,Van,31,Female,50,Yes,Bad Weather
+665,2025-03-31,11:04:40,Kennethbury,Windy,Dry,Daylight,2,1,Fatal,Car,42,Female,110,No,Drunk Driving
+666,2024-12-01,07:57:31,Michealtown,Snow,Dry,Daylight,3,0,Fatal,Car,80,Female,110,Yes,Other
+667,2023-12-28,09:11:04,West Jonbury,Stormy,Wet,Dark with street lights,4,5,Minor,Bus,24,Female,70,Yes,Drunk Driving
+668,2024-07-28,11:06:54,Anthonystad,Stormy,Icy,Dark with street lights,2,0,Minor,Truck,49,Female,90,No,Other
+669,2024-09-07,10:16:23,Hannahview,Snow,Wet,Dark without lights,2,4,Minor,Bus,40,Female,90,No,Other
+670,2024-11-07,07:32:06,Wallborough,Rainy,Icy,Daylight,4,0,Fatal,Bus,38,Male,70,No,Other
+671,2023-09-08,18:57:32,West Adrian,Stormy,Icy,Dark with street lights,4,4,Serious,Van,19,Male,110,Yes,Drunk Driving
+672,2024-07-10,23:25:59,West Meredithport,Stormy,Icy,Daylight,2,0,Minor,Car,27,Female,50,No,Mechanical Failure
+673,2024-05-24,04:01:38,Keithside,Fog,Snowy,Dark with street lights,2,5,Serious,Motorbike,28,Male,70,Yes,Overspeeding
+674,2025-01-30,15:08:40,West Bradley,Fog,Dry,Daylight,2,3,Serious,Bicycle,71,Male,70,No,Distracted Driving
+675,2024-04-16,05:25:04,Micheleborough,Snow,Dry,Dark without lights,4,0,Fatal,Bus,22,Male,30,No,Mechanical Failure
+676,2025-01-13,02:33:56,Christinamouth,Rainy,Icy,Daylight,2,2,Minor,Motorbike,54,Male,70,No,Other
+677,2024-12-21,19:38:53,South Georgeville,Rainy,Dry,Dark with street lights,2,5,Minor,Truck,26,Female,30,Yes,Distracted Driving
+678,2024-05-19,02:41:35,Braunville,Fog,Wet,Daylight,1,4,Fatal,Truck,40,Male,30,Yes,Other
+679,2023-11-16,17:40:19,New Williamfurt,Clear,Snowy,Dark with street lights,5,4,Serious,Bicycle,27,Male,30,Yes,Distracted Driving
+680,2025-03-10,07:45:00,Stephensside,Rainy,Wet,Dark with street lights,1,0,Fatal,Motorbike,64,Male,50,Yes,Drunk Driving
+681,2023-12-30,21:58:49,South Tanyaview,Stormy,Icy,Dark without lights,5,3,Minor,Van,59,Male,70,Yes,Mechanical Failure
+682,2023-07-15,08:15:58,Melissaberg,Clear,Icy,Dark without lights,2,3,Minor,Bus,60,Male,30,No,Bad Weather
+683,2025-01-09,12:32:27,Lake Erica,Snow,Icy,Dark without lights,2,5,Minor,Car,50,Female,110,Yes,Other
+684,2023-06-15,08:23:24,East Kristenberg,Snow,Wet,Dark without lights,5,2,Serious,Bicycle,40,Female,30,No,Mechanical Failure
+685,2023-12-01,20:31:51,New Jasmine,Windy,Icy,Daylight,3,2,Serious,Car,29,Male,30,Yes,Drunk Driving
+686,2025-04-27,04:45:17,North Crystal,Windy,Snowy,Daylight,2,1,Minor,Car,73,Female,30,Yes,Other
+687,2024-01-12,15:18:58,South Melissa,Rainy,Icy,Dark without lights,2,3,Minor,Bicycle,24,Female,70,No,Distracted Driving
+688,2023-08-08,12:06:03,Barbaraton,Stormy,Dry,Daylight,5,5,Minor,Bicycle,53,Male,50,No,Distracted Driving
+689,2023-06-11,04:46:26,West Richardshire,Windy,Wet,Dark without lights,5,2,Serious,Car,48,Female,90,Yes,Distracted Driving
+690,2025-01-13,19:02:29,New Scottport,Stormy,Wet,Daylight,1,5,Serious,Truck,25,Male,110,No,Drunk Driving
+691,2024-06-13,03:03:33,Hermanfurt,Snow,Dry,Dark with street lights,1,3,Minor,Van,36,Female,50,Yes,Drunk Driving
+692,2024-08-07,16:35:40,Lake Paul,Fog,Dry,Daylight,1,4,Serious,Motorbike,52,Female,90,No,Bad Weather
+693,2024-06-21,13:37:55,Jenniferfurt,Snow,Icy,Dark without lights,1,0,Fatal,Van,68,Female,50,Yes,Drunk Driving
+694,2023-06-03,13:47:03,Port Alexishaven,Fog,Wet,Daylight,1,1,Serious,Van,28,Male,90,No,Bad Weather
+695,2023-08-09,23:05:32,Lake Dylanview,Stormy,Snowy,Dark without lights,5,1,Minor,Car,29,Male,110,No,Overspeeding
+696,2025-02-06,17:32:25,Port Curtishaven,Stormy,Wet,Daylight,4,2,Serious,Truck,19,Female,90,Yes,Overspeeding
+697,2024-07-02,13:25:57,Rebeccaton,Windy,Wet,Dark without lights,2,1,Minor,Truck,57,Male,110,Yes,Other
+698,2024-09-12,18:03:51,Lake Michealton,Stormy,Wet,Dark with street lights,4,1,Minor,Car,30,Female,90,No,Distracted Driving
+699,2024-06-01,21:47:52,North Robertborough,Rainy,Snowy,Daylight,4,3,Fatal,Motorbike,38,Female,70,No,Drunk Driving
+700,2024-04-18,02:21:16,Seanchester,Clear,Icy,Daylight,1,2,Fatal,Van,66,Female,30,Yes,Distracted Driving
+701,2023-12-07,00:32:17,Johnsonstad,Fog,Dry,Dark with street lights,4,5,Fatal,Van,37,Male,70,No,Distracted Driving
+702,2023-12-19,17:29:11,Jessicafort,Windy,Snowy,Daylight,1,4,Serious,Truck,66,Female,90,No,Mechanical Failure
+703,2024-09-05,07:53:21,New Kimberlyburgh,Clear,Icy,Dark with street lights,3,1,Serious,Truck,33,Male,50,No,Other
+704,2024-09-14,20:42:50,New Kyle,Clear,Dry,Daylight,2,5,Minor,Motorbike,65,Female,110,Yes,Mechanical Failure
+705,2025-04-21,22:05:12,Port Madison,Windy,Wet,Daylight,2,0,Minor,Truck,35,Female,70,No,Mechanical Failure
+706,2024-10-25,11:24:53,Armstrongstad,Windy,Icy,Dark with street lights,1,0,Minor,Car,41,Male,70,No,Drunk Driving
+707,2025-01-17,04:53:58,Ronaldburgh,Stormy,Icy,Dark with street lights,5,0,Fatal,Bus,33,Male,70,No,Drunk Driving
+708,2024-03-02,11:52:41,Johnsonburgh,Windy,Snowy,Dark with street lights,1,5,Fatal,Bicycle,47,Male,110,Yes,Distracted Driving
+709,2024-10-28,10:00:16,East Thomas,Fog,Icy,Dark without lights,3,2,Serious,Bicycle,77,Male,90,No,Drunk Driving
+710,2025-03-13,10:53:33,South Eric,Stormy,Icy,Daylight,3,5,Fatal,Motorbike,45,Male,30,No,Drunk Driving
+711,2024-09-05,18:34:26,Christinehaven,Fog,Snowy,Daylight,2,1,Fatal,Van,21,Female,70,Yes,Distracted Driving
+712,2023-12-03,11:36:38,West Brittany,Snow,Snowy,Daylight,1,5,Minor,Bus,20,Female,70,No,Distracted Driving
+713,2025-04-07,17:23:46,South Brandonville,Stormy,Icy,Dark without lights,5,5,Minor,Motorbike,72,Male,90,No,Mechanical Failure
+714,2024-11-20,12:11:11,South Tammymouth,Rainy,Wet,Daylight,5,2,Minor,Truck,64,Male,110,Yes,Overspeeding
+715,2023-11-20,08:26:27,Calderonstad,Rainy,Snowy,Dark with street lights,3,2,Serious,Van,59,Female,110,Yes,Distracted Driving
+716,2024-10-30,11:28:42,South Tiffanyville,Fog,Dry,Dark with street lights,4,3,Minor,Van,31,Male,110,No,Drunk Driving
+717,2024-05-12,14:57:53,Port Frank,Clear,Dry,Daylight,1,5,Fatal,Bus,20,Female,50,Yes,Mechanical Failure
+718,2025-03-28,12:27:26,New Craig,Windy,Snowy,Dark with street lights,3,1,Fatal,Bicycle,47,Male,90,No,Other
+719,2025-04-03,03:26:16,North Noahmouth,Fog,Wet,Daylight,4,1,Serious,Bus,39,Female,110,Yes,Other
+720,2023-06-15,20:51:53,Stephaniebury,Clear,Snowy,Daylight,2,5,Minor,Van,26,Male,70,No,Bad Weather
+721,2025-04-06,19:13:08,Port Rebeccaview,Windy,Snowy,Dark with street lights,3,1,Serious,Truck,21,Male,70,No,Other
+722,2023-12-17,15:07:29,Lake Troy,Stormy,Icy,Dark without lights,4,0,Serious,Van,64,Female,110,No,Overspeeding
+723,2024-01-30,00:50:03,East Alexander,Stormy,Icy,Daylight,4,4,Serious,Van,52,Female,30,Yes,Mechanical Failure
+724,2024-02-20,07:19:15,Robertsonborough,Stormy,Snowy,Daylight,5,1,Minor,Car,57,Female,70,No,Other
+725,2024-09-07,01:55:06,Lake Melissachester,Stormy,Icy,Dark without lights,2,5,Serious,Bicycle,21,Male,90,Yes,Bad Weather
+726,2024-06-08,06:57:00,Petersonmouth,Fog,Snowy,Daylight,4,0,Fatal,Bicycle,58,Female,90,Yes,Other
+727,2023-12-22,13:34:56,South Robertton,Rainy,Wet,Daylight,4,2,Serious,Motorbike,41,Male,110,Yes,Other
+728,2024-04-03,15:27:47,Andersonport,Fog,Wet,Dark with street lights,3,5,Minor,Bus,19,Female,30,Yes,Distracted Driving
+729,2023-08-10,19:23:32,Alexanderborough,Rainy,Snowy,Daylight,3,5,Serious,Bus,22,Female,70,No,Bad Weather
+730,2023-10-11,07:09:59,Johnshire,Windy,Dry,Dark without lights,2,5,Fatal,Bicycle,75,Male,70,No,Distracted Driving
+731,2023-08-25,11:07:58,Franklinville,Stormy,Snowy,Dark without lights,5,1,Minor,Truck,31,Female,110,Yes,Bad Weather
+732,2024-05-25,13:47:02,Mosschester,Windy,Wet,Daylight,5,1,Fatal,Truck,43,Female,30,No,Drunk Driving
+733,2024-04-05,17:25:50,North Evan,Clear,Dry,Daylight,4,1,Minor,Car,33,Male,70,No,Bad Weather
+734,2024-11-20,11:02:58,New Katrina,Clear,Wet,Dark without lights,2,5,Minor,Truck,34,Male,110,No,Drunk Driving
+735,2024-07-13,04:40:32,Port Kaitlinside,Rainy,Icy,Dark without lights,2,4,Fatal,Bicycle,63,Female,30,No,Other
+736,2024-03-03,11:33:16,Zacharyton,Windy,Wet,Dark without lights,4,3,Minor,Car,22,Male,30,No,Mechanical Failure
+737,2025-02-27,21:22:07,New Billy,Rainy,Dry,Daylight,2,5,Minor,Car,20,Female,90,Yes,Drunk Driving
+738,2024-02-11,03:29:48,Lake Jasonfurt,Stormy,Dry,Daylight,4,2,Serious,Motorbike,37,Male,90,No,Bad Weather
+739,2025-02-14,00:35:05,West Jason,Snow,Snowy,Daylight,4,2,Minor,Bus,77,Male,50,No,Drunk Driving
+740,2023-10-01,05:09:20,New Megan,Rainy,Wet,Dark with street lights,1,0,Minor,Bicycle,70,Female,50,Yes,Mechanical Failure
+741,2024-05-25,11:23:20,Leslieshire,Fog,Wet,Daylight,1,0,Fatal,Car,49,Male,110,Yes,Distracted Driving
+742,2025-04-16,23:19:32,Theresafurt,Stormy,Snowy,Dark with street lights,1,0,Fatal,Bus,49,Male,70,Yes,Drunk Driving
+743,2025-03-11,21:40:44,East Sarah,Fog,Icy,Daylight,2,2,Serious,Bus,38,Female,110,No,Drunk Driving
+744,2024-11-17,09:25:16,Keithfort,Snow,Dry,Dark without lights,5,4,Minor,Motorbike,72,Female,30,Yes,Mechanical Failure
+745,2023-07-09,15:33:54,South Amandaborough,Windy,Wet,Daylight,1,1,Serious,Truck,26,Male,50,No,Other
+746,2024-12-26,00:08:56,Teresaberg,Clear,Dry,Dark without lights,3,5,Serious,Motorbike,51,Female,110,No,Bad Weather
+747,2023-05-08,02:41:03,Kevinstad,Clear,Dry,Dark with street lights,1,2,Minor,Bicycle,44,Male,50,Yes,Overspeeding
+748,2024-02-27,06:27:35,Lisaton,Stormy,Wet,Dark without lights,1,5,Minor,Car,73,Male,90,No,Bad Weather
+749,2024-09-23,09:33:54,Kennedymouth,Fog,Wet,Dark with street lights,2,3,Serious,Truck,65,Female,110,No,Mechanical Failure
+750,2024-11-25,09:02:29,Alexhaven,Snow,Dry,Dark with street lights,1,4,Minor,Car,68,Female,50,Yes,Distracted Driving
+751,2024-02-07,22:44:04,Barbaraview,Snow,Snowy,Dark with street lights,4,0,Serious,Truck,80,Male,110,Yes,Drunk Driving
+752,2024-11-10,08:44:43,North Peterton,Fog,Dry,Dark without lights,1,2,Serious,Car,75,Male,50,Yes,Overspeeding
+753,2023-06-07,17:30:02,Mindystad,Clear,Wet,Dark with street lights,2,4,Serious,Motorbike,67,Male,90,Yes,Other
+754,2024-12-15,04:27:41,Port Rebecca,Stormy,Snowy,Daylight,1,5,Fatal,Car,21,Female,30,Yes,Mechanical Failure
+755,2023-12-08,15:02:56,Arnoldshire,Snow,Snowy,Dark with street lights,2,5,Serious,Car,34,Male,110,Yes,Bad Weather
+756,2023-05-12,00:47:49,Angelaview,Fog,Wet,Dark with street lights,3,3,Fatal,Truck,34,Male,50,Yes,Other
+757,2024-04-13,03:11:00,North Andreamouth,Clear,Wet,Daylight,4,3,Serious,Bus,68,Female,50,No,Mechanical Failure
+758,2025-01-07,12:10:35,Port Justinmouth,Rainy,Icy,Dark with street lights,4,3,Fatal,Car,43,Male,70,No,Distracted Driving
+759,2023-11-22,17:29:59,Morganton,Snow,Icy,Dark without lights,4,0,Minor,Bicycle,66,Male,90,No,Distracted Driving
+760,2024-05-26,19:07:51,West Juanville,Rainy,Snowy,Dark with street lights,2,3,Fatal,Motorbike,66,Male,70,No,Distracted Driving
+761,2023-07-03,06:11:59,North Diana,Snow,Snowy,Dark with street lights,3,0,Serious,Car,21,Male,70,Yes,Bad Weather
+762,2023-08-12,20:01:22,Lake Todd,Fog,Wet,Dark without lights,4,3,Serious,Car,24,Male,30,Yes,Distracted Driving
+763,2025-04-16,07:22:33,West Morganside,Windy,Snowy,Dark with street lights,2,1,Serious,Bicycle,51,Female,110,Yes,Other
+764,2024-03-01,16:16:53,Melissaborough,Clear,Dry,Daylight,3,1,Serious,Car,70,Male,50,No,Bad Weather
+765,2025-03-22,17:57:00,Nelsonview,Snow,Snowy,Dark without lights,5,1,Minor,Car,80,Male,70,No,Other
+766,2024-03-11,13:25:42,North Timothy,Windy,Dry,Dark with street lights,1,0,Minor,Truck,32,Male,30,No,Drunk Driving
+767,2023-10-24,15:58:19,Meredithton,Windy,Dry,Dark with street lights,2,1,Fatal,Bicycle,59,Female,110,No,Drunk Driving
+768,2024-12-01,19:24:04,Rogerland,Snow,Dry,Dark without lights,2,5,Serious,Bicycle,34,Male,90,No,Other
+769,2023-05-01,13:31:18,Tinaberg,Stormy,Snowy,Daylight,5,4,Minor,Bicycle,28,Female,70,No,Distracted Driving
+770,2023-06-18,23:23:29,New Andrew,Snow,Dry,Daylight,3,3,Minor,Bus,37,Male,70,No,Overspeeding
+771,2024-07-05,15:41:59,West Brian,Fog,Icy,Dark with street lights,5,2,Serious,Truck,80,Male,90,Yes,Drunk Driving
+772,2023-10-05,08:45:12,Port Nicholasfort,Windy,Dry,Daylight,5,2,Serious,Bus,21,Male,70,No,Overspeeding
+773,2024-12-14,21:27:42,South Timothyview,Fog,Icy,Dark without lights,5,2,Minor,Bus,36,Male,110,Yes,Drunk Driving
+774,2024-10-27,07:24:49,New Monicamouth,Rainy,Icy,Dark with street lights,3,2,Minor,Bicycle,43,Female,70,Yes,Mechanical Failure
+775,2024-06-22,16:07:14,Deannachester,Clear,Snowy,Dark without lights,5,4,Fatal,Truck,19,Male,30,No,Overspeeding
+776,2023-11-15,16:19:47,New Patriciaside,Snow,Icy,Daylight,5,2,Minor,Motorbike,25,Female,70,No,Drunk Driving
+777,2024-02-07,11:17:48,East Jaredton,Rainy,Dry,Dark without lights,2,2,Minor,Bus,47,Male,30,No,Mechanical Failure
+778,2025-03-17,18:48:34,Stephanieburgh,Fog,Wet,Dark with street lights,2,1,Minor,Bus,62,Male,30,Yes,Mechanical Failure
+779,2024-12-09,10:54:22,West Yolanda,Fog,Snowy,Dark with street lights,3,2,Minor,Truck,44,Male,50,No,Mechanical Failure
+780,2023-11-24,18:43:26,Barrettside,Snow,Wet,Dark without lights,5,0,Serious,Bus,19,Female,90,Yes,Drunk Driving
+781,2024-06-22,02:09:46,Port Nicole,Clear,Wet,Dark without lights,2,3,Serious,Car,41,Male,70,Yes,Overspeeding
+782,2024-04-11,05:16:12,Lake Andrew,Rainy,Icy,Daylight,5,1,Minor,Bicycle,27,Male,110,No,Bad Weather
+783,2023-06-11,00:21:24,Alfredton,Rainy,Icy,Daylight,5,5,Fatal,Bicycle,35,Female,70,Yes,Overspeeding
+784,2023-10-07,03:03:07,Port Matthew,Fog,Wet,Dark with street lights,2,1,Minor,Bus,65,Male,110,Yes,Bad Weather
+785,2024-05-21,13:20:49,Cruzburgh,Clear,Wet,Dark without lights,5,2,Fatal,Bicycle,72,Male,90,Yes,Drunk Driving
+786,2023-05-20,10:34:21,West Daniel,Snow,Icy,Dark with street lights,2,5,Fatal,Bus,73,Female,110,No,Other
+787,2024-01-01,14:50:44,South Scott,Stormy,Icy,Dark without lights,2,1,Minor,Bus,61,Male,50,No,Distracted Driving
+788,2024-10-19,05:02:27,New Paulbury,Clear,Snowy,Dark with street lights,4,5,Fatal,Van,80,Female,70,Yes,Mechanical Failure
+789,2025-01-16,19:03:29,Jenniferfurt,Clear,Dry,Dark with street lights,2,5,Fatal,Bus,18,Female,70,No,Overspeeding
+790,2024-12-04,04:09:12,Timothychester,Snow,Snowy,Dark without lights,4,0,Serious,Bicycle,41,Female,30,No,Overspeeding
+791,2023-10-11,08:23:40,West Kristina,Clear,Dry,Dark without lights,4,4,Minor,Van,63,Male,30,Yes,Distracted Driving
+792,2023-07-05,22:08:10,Gilbertland,Stormy,Snowy,Dark without lights,5,5,Minor,Truck,28,Male,110,Yes,Mechanical Failure
+793,2023-05-13,20:24:03,West Jonathanport,Fog,Wet,Daylight,4,3,Serious,Bicycle,24,Male,110,Yes,Drunk Driving
+794,2023-09-03,11:11:23,Chanton,Snow,Dry,Dark with street lights,4,1,Serious,Van,22,Female,70,Yes,Mechanical Failure
+795,2023-07-27,09:41:06,Rhondaton,Windy,Wet,Daylight,5,4,Minor,Van,48,Female,110,Yes,Mechanical Failure
+796,2024-02-11,23:31:09,Johnsonview,Rainy,Icy,Dark without lights,2,5,Minor,Bus,27,Male,70,Yes,Other
+797,2024-11-03,20:47:12,Masonshire,Rainy,Snowy,Dark with street lights,5,3,Fatal,Motorbike,48,Female,110,No,Mechanical Failure
+798,2023-08-29,15:56:30,Arielburgh,Clear,Wet,Daylight,3,0,Minor,Bus,70,Male,50,No,Mechanical Failure
+799,2024-03-02,13:49:46,Lake Matthewville,Snow,Wet,Daylight,1,1,Serious,Car,41,Male,70,No,Overspeeding
+800,2025-04-19,16:44:42,New Anna,Fog,Wet,Dark with street lights,3,4,Fatal,Car,72,Female,50,No,Overspeeding
+801,2024-12-10,10:42:19,Wangville,Snow,Wet,Dark with street lights,3,0,Minor,Bicycle,79,Female,110,Yes,Other
+802,2023-08-28,06:58:26,Robertland,Snow,Wet,Dark without lights,4,4,Fatal,Car,52,Female,110,Yes,Drunk Driving
+803,2024-09-30,10:44:36,Kathleenview,Fog,Wet,Dark with street lights,2,5,Serious,Car,40,Male,90,Yes,Distracted Driving
+804,2025-04-09,19:44:18,Ronaldview,Stormy,Snowy,Dark with street lights,5,0,Fatal,Bus,35,Female,50,Yes,Mechanical Failure
+805,2025-03-07,14:57:24,Leefurt,Stormy,Icy,Daylight,5,1,Minor,Car,41,Male,90,No,Overspeeding
+806,2024-10-26,12:31:12,Hollandville,Snow,Icy,Daylight,4,1,Serious,Motorbike,26,Male,90,Yes,Mechanical Failure
+807,2023-06-02,23:12:21,Wiseburgh,Fog,Dry,Dark without lights,2,2,Fatal,Truck,34,Male,70,Yes,Mechanical Failure
+808,2024-03-04,18:46:02,West Deborahfurt,Snow,Dry,Dark without lights,2,4,Fatal,Motorbike,52,Male,70,Yes,Drunk Driving
+809,2025-02-25,22:54:03,Tuckerbury,Clear,Wet,Daylight,5,1,Minor,Bus,32,Female,50,Yes,Bad Weather
+810,2023-07-09,11:04:03,Meyertown,Fog,Wet,Dark without lights,4,1,Minor,Bus,20,Male,110,Yes,Drunk Driving
+811,2024-05-16,12:46:55,Meganton,Clear,Wet,Dark without lights,2,1,Serious,Motorbike,68,Male,30,No,Overspeeding
+812,2024-11-17,07:00:02,East Davidchester,Snow,Icy,Dark without lights,5,3,Fatal,Bicycle,66,Male,50,No,Distracted Driving
+813,2023-08-03,12:01:30,Juantown,Clear,Dry,Dark with street lights,5,5,Fatal,Truck,65,Male,30,Yes,Mechanical Failure
+814,2024-03-17,07:59:32,Gonzalezborough,Rainy,Dry,Daylight,3,1,Minor,Truck,73,Male,30,Yes,Overspeeding
+815,2024-10-21,17:14:02,Everettport,Fog,Dry,Daylight,5,5,Minor,Truck,51,Female,50,Yes,Mechanical Failure
+816,2025-02-23,00:36:49,Lewistown,Clear,Dry,Daylight,4,5,Serious,Van,33,Male,30,No,Drunk Driving
+817,2024-03-25,11:27:29,Cummingsstad,Fog,Wet,Dark without lights,2,4,Fatal,Car,70,Male,30,Yes,Distracted Driving
+818,2024-06-18,23:57:44,North Kennethbury,Snow,Snowy,Dark with street lights,3,0,Fatal,Car,43,Male,30,Yes,Overspeeding
+819,2025-02-15,01:00:02,Adamsfurt,Clear,Wet,Daylight,1,0,Serious,Bus,54,Female,90,Yes,Bad Weather
+820,2023-11-17,06:57:28,New Joseph,Snow,Dry,Daylight,3,5,Minor,Truck,80,Male,90,No,Other
+821,2024-12-13,02:00:28,New Jeffrey,Rainy,Dry,Dark without lights,4,3,Serious,Bus,32,Female,110,Yes,Bad Weather
+822,2024-11-27,07:43:09,Sandershaven,Windy,Snowy,Daylight,5,1,Serious,Bus,36,Female,50,No,Distracted Driving
+823,2023-06-21,18:33:28,New Michaelville,Snow,Snowy,Dark without lights,3,0,Fatal,Bicycle,33,Female,70,Yes,Bad Weather
+824,2024-01-21,17:34:48,East Anitaville,Windy,Icy,Dark without lights,4,5,Serious,Bus,59,Female,30,No,Overspeeding
+825,2024-04-25,21:11:33,Jonathantown,Windy,Wet,Dark without lights,2,0,Serious,Bicycle,76,Male,70,No,Distracted Driving
+826,2023-06-16,03:56:35,West Annemouth,Windy,Snowy,Dark with street lights,3,5,Fatal,Car,52,Female,90,Yes,Drunk Driving
+827,2023-07-29,03:00:31,Arellanomouth,Windy,Wet,Dark with street lights,4,3,Serious,Motorbike,71,Male,110,Yes,Mechanical Failure
+828,2023-11-14,21:21:25,Port Walter,Snow,Dry,Dark with street lights,4,2,Fatal,Bus,60,Female,90,No,Overspeeding
+829,2023-08-29,22:10:19,Evansstad,Windy,Dry,Dark without lights,4,5,Serious,Bicycle,39,Female,110,Yes,Distracted Driving
+830,2025-03-20,09:27:08,North Nathanielfort,Rainy,Snowy,Daylight,5,5,Serious,Motorbike,41,Female,110,Yes,Mechanical Failure
+831,2023-09-13,12:49:53,Leechester,Clear,Wet,Dark without lights,1,2,Fatal,Bicycle,79,Female,30,Yes,Other
+832,2024-09-02,17:51:33,Blakefurt,Windy,Snowy,Daylight,4,1,Minor,Bus,56,Male,70,Yes,Mechanical Failure
+833,2023-09-19,08:21:31,New Andreachester,Clear,Dry,Dark with street lights,5,4,Fatal,Truck,45,Male,50,No,Distracted Driving
+834,2024-07-01,23:04:01,Tiffanyside,Stormy,Icy,Dark with street lights,4,5,Fatal,Bus,62,Female,30,Yes,Bad Weather
+835,2023-11-19,04:38:01,North Deborahville,Stormy,Dry,Dark without lights,5,1,Fatal,Bus,47,Male,90,Yes,Bad Weather
+836,2025-04-27,17:25:13,Michaelfort,Rainy,Dry,Dark with street lights,1,3,Minor,Bus,73,Female,90,No,Bad Weather
+837,2025-01-08,23:45:07,Port Lydia,Snow,Snowy,Dark with street lights,2,4,Minor,Bus,37,Male,110,No,Overspeeding
+838,2023-09-04,16:10:25,Johnsview,Rainy,Snowy,Daylight,2,1,Minor,Motorbike,56,Male,50,Yes,Distracted Driving
+839,2025-01-06,16:33:43,East Michaelstad,Clear,Icy,Daylight,5,4,Fatal,Truck,27,Female,90,No,Drunk Driving
+840,2023-12-02,16:58:15,North Christineport,Stormy,Icy,Dark with street lights,2,3,Minor,Truck,79,Male,30,No,Overspeeding
+841,2024-12-26,13:23:13,East Michaelmouth,Windy,Snowy,Daylight,5,0,Serious,Bicycle,41,Female,110,No,Mechanical Failure
+842,2023-10-07,08:49:45,Port John,Snow,Snowy,Dark with street lights,5,2,Serious,Car,38,Male,50,No,Bad Weather
+843,2024-01-27,10:53:58,Robinsonton,Stormy,Wet,Dark with street lights,4,3,Serious,Truck,73,Male,110,Yes,Mechanical Failure
+844,2024-08-15,02:38:17,Mackenzieton,Fog,Icy,Dark without lights,3,2,Fatal,Bicycle,62,Male,30,Yes,Overspeeding
+845,2023-07-16,01:35:46,Robertland,Windy,Wet,Daylight,1,3,Serious,Bicycle,68,Female,50,Yes,Other
+846,2023-10-08,03:58:12,North Aliciaville,Stormy,Dry,Dark without lights,2,4,Serious,Bus,45,Female,70,No,Distracted Driving
+847,2023-10-31,00:55:28,Fitzpatrickfurt,Windy,Wet,Dark without lights,3,3,Fatal,Truck,71,Male,90,No,Distracted Driving
+848,2023-05-26,18:37:22,Andreaside,Clear,Dry,Daylight,5,0,Minor,Bus,71,Male,30,Yes,Bad Weather
+849,2024-08-02,13:59:39,Brownfort,Clear,Icy,Daylight,4,3,Fatal,Bicycle,64,Female,50,No,Drunk Driving
+850,2023-05-30,06:38:57,Jenniferside,Stormy,Icy,Daylight,3,4,Fatal,Car,53,Female,30,No,Overspeeding
+851,2023-09-20,19:32:31,Port George,Stormy,Snowy,Daylight,5,5,Minor,Motorbike,24,Female,70,No,Overspeeding
+852,2024-11-23,02:54:20,South Melissastad,Snow,Icy,Dark without lights,4,4,Minor,Bicycle,51,Male,90,Yes,Bad Weather
+853,2024-12-27,15:05:56,North Savannahfurt,Clear,Icy,Daylight,4,0,Serious,Bus,25,Female,30,No,Mechanical Failure
+854,2023-12-11,03:58:51,Lopeztown,Windy,Snowy,Dark without lights,2,1,Serious,Bus,77,Male,110,No,Overspeeding
+855,2024-04-15,17:19:27,Richardview,Rainy,Snowy,Dark without lights,2,4,Serious,Bicycle,80,Male,50,No,Mechanical Failure
+856,2023-06-22,04:50:20,Tammychester,Snow,Snowy,Daylight,5,4,Fatal,Truck,79,Female,90,No,Drunk Driving
+857,2024-02-14,23:30:27,North Robertbury,Stormy,Wet,Daylight,5,5,Minor,Van,45,Male,90,Yes,Other
+858,2023-09-18,00:30:59,Bensonmouth,Windy,Snowy,Dark with street lights,5,2,Fatal,Motorbike,60,Female,30,Yes,Overspeeding
+859,2025-03-23,11:47:04,North Lauraborough,Fog,Dry,Dark with street lights,4,1,Minor,Bicycle,45,Male,70,Yes,Drunk Driving
+860,2025-01-01,15:06:07,Sherristad,Fog,Icy,Dark without lights,4,2,Serious,Car,26,Male,110,Yes,Mechanical Failure
+861,2024-05-28,10:25:31,New Michelle,Stormy,Wet,Daylight,3,1,Minor,Van,22,Male,70,No,Mechanical Failure
+862,2024-04-26,17:41:57,South Jeffrey,Rainy,Wet,Daylight,1,2,Serious,Car,38,Female,30,Yes,Distracted Driving
+863,2024-09-13,01:38:41,West Jenniferhaven,Fog,Snowy,Dark with street lights,4,1,Serious,Motorbike,57,Female,30,No,Bad Weather
+864,2024-04-30,19:40:46,New Travisshire,Stormy,Dry,Daylight,3,0,Fatal,Truck,73,Female,90,No,Overspeeding
+865,2024-03-14,08:11:16,Youngville,Windy,Snowy,Daylight,1,4,Fatal,Bus,74,Female,30,Yes,Overspeeding
+866,2023-07-31,03:04:47,Port Michael,Fog,Dry,Dark with street lights,2,3,Serious,Motorbike,72,Female,110,No,Distracted Driving
+867,2025-04-06,18:07:41,Hudsonport,Clear,Snowy,Daylight,4,2,Fatal,Van,42,Male,30,Yes,Bad Weather
+868,2025-02-08,01:17:05,Gregorytown,Fog,Dry,Daylight,3,3,Fatal,Motorbike,58,Male,90,No,Drunk Driving
+869,2024-05-14,19:15:42,West Deborah,Windy,Snowy,Dark with street lights,1,2,Minor,Van,42,Female,90,Yes,Mechanical Failure
+870,2023-08-20,15:12:56,Choitown,Clear,Snowy,Dark with street lights,2,3,Minor,Van,42,Female,50,No,Overspeeding
+871,2024-10-25,18:33:30,East Katrinahaven,Stormy,Wet,Daylight,2,3,Minor,Truck,36,Female,50,Yes,Overspeeding
+872,2025-01-13,21:57:30,North Dennisburgh,Rainy,Wet,Dark without lights,4,0,Serious,Bicycle,25,Female,110,No,Drunk Driving
+873,2023-07-18,14:42:42,South Amanda,Clear,Wet,Dark without lights,2,4,Serious,Van,71,Female,90,Yes,Other
+874,2024-06-18,05:26:05,Cochranburgh,Rainy,Dry,Daylight,5,1,Minor,Bus,33,Female,90,No,Other
+875,2024-09-30,18:22:47,North Lauren,Rainy,Wet,Dark without lights,3,3,Minor,Bicycle,23,Male,110,Yes,Bad Weather
+876,2024-12-06,06:56:43,Port Marcia,Snow,Snowy,Dark with street lights,5,2,Minor,Motorbike,36,Female,30,No,Mechanical Failure
+877,2025-04-27,11:35:30,Port Ryanton,Clear,Dry,Dark with street lights,4,1,Minor,Car,79,Female,30,Yes,Distracted Driving
+878,2025-04-01,00:38:37,Robinsonberg,Rainy,Wet,Dark with street lights,3,5,Minor,Truck,70,Female,30,No,Mechanical Failure
+879,2023-09-17,00:52:21,Paceview,Stormy,Wet,Dark with street lights,1,0,Fatal,Truck,51,Female,90,Yes,Bad Weather
+880,2025-02-08,08:54:02,Lake Jamesland,Clear,Snowy,Dark without lights,3,3,Fatal,Truck,59,Male,110,No,Mechanical Failure
+881,2024-04-26,14:28:19,Ariasville,Clear,Dry,Dark without lights,4,5,Serious,Truck,69,Female,90,No,Other
+882,2023-08-16,01:52:17,New Sarahstad,Clear,Dry,Dark without lights,4,0,Fatal,Bicycle,52,Male,110,No,Drunk Driving
+883,2023-09-19,04:30:46,Katherinestad,Clear,Dry,Dark with street lights,2,1,Serious,Bus,31,Female,30,No,Other
+884,2024-06-30,18:04:30,Port Amandaview,Fog,Wet,Dark without lights,2,1,Fatal,Bus,61,Male,30,Yes,Mechanical Failure
+885,2023-07-25,01:21:24,North Tamitown,Stormy,Icy,Dark with street lights,5,2,Fatal,Truck,57,Male,70,Yes,Mechanical Failure
+886,2023-08-05,03:54:44,Josephbury,Rainy,Icy,Dark without lights,3,5,Serious,Bus,25,Female,110,No,Bad Weather
+887,2024-02-24,19:17:18,Lake Jakeview,Stormy,Snowy,Daylight,1,4,Serious,Car,28,Male,70,No,Distracted Driving
+888,2024-09-02,21:41:25,West Joseph,Snow,Icy,Dark with street lights,2,4,Minor,Bus,25,Male,50,Yes,Other
+889,2023-07-07,00:53:39,East Kim,Snow,Icy,Dark without lights,1,5,Minor,Bus,56,Male,110,No,Mechanical Failure
+890,2023-07-09,04:48:55,Welchburgh,Clear,Icy,Dark without lights,3,4,Serious,Bicycle,32,Male,30,Yes,Drunk Driving
+891,2024-07-14,04:37:51,New Matthewmouth,Snow,Icy,Dark with street lights,1,1,Serious,Bus,31,Female,70,Yes,Mechanical Failure
+892,2023-05-06,09:51:39,North Marystad,Clear,Icy,Dark without lights,5,4,Serious,Car,23,Male,110,Yes,Mechanical Failure
+893,2023-10-08,11:45:59,Port Roy,Fog,Snowy,Daylight,1,1,Fatal,Bus,46,Female,50,Yes,Other
+894,2024-04-08,14:36:09,Tuckerchester,Rainy,Dry,Daylight,4,4,Fatal,Car,29,Female,110,No,Overspeeding
+895,2024-06-07,05:28:02,Jonathanhaven,Clear,Dry,Dark without lights,5,2,Minor,Van,49,Male,70,No,Bad Weather
+896,2024-01-08,08:52:12,North Allison,Clear,Snowy,Dark with street lights,2,5,Minor,Bicycle,57,Female,50,No,Other
+897,2024-06-25,16:35:34,Sharonhaven,Stormy,Icy,Dark with street lights,1,4,Fatal,Motorbike,48,Male,90,Yes,Other
+898,2025-02-22,18:27:01,New Suzannechester,Fog,Snowy,Dark with street lights,1,3,Minor,Car,74,Male,90,Yes,Overspeeding
+899,2025-04-27,20:51:14,Teresastad,Snow,Icy,Dark without lights,2,3,Serious,Car,45,Male,110,No,Bad Weather
+900,2024-09-05,06:03:21,Nicholasfort,Snow,Dry,Dark without lights,3,3,Minor,Motorbike,42,Female,70,Yes,Overspeeding
+901,2023-10-29,23:52:18,New William,Stormy,Icy,Dark with street lights,1,1,Minor,Bicycle,30,Female,30,No,Drunk Driving
+902,2023-06-12,15:36:38,Portertown,Windy,Dry,Dark with street lights,2,5,Fatal,Truck,27,Female,90,No,Mechanical Failure
+903,2023-09-19,06:43:36,Port Cheryl,Fog,Snowy,Dark with street lights,5,3,Minor,Car,27,Male,110,Yes,Drunk Driving
+904,2024-09-20,21:08:17,Matthewsview,Fog,Icy,Dark with street lights,5,5,Serious,Van,77,Female,30,No,Drunk Driving
+905,2024-02-20,16:48:12,East Tina,Stormy,Icy,Dark with street lights,1,0,Minor,Motorbike,56,Female,70,No,Drunk Driving
+906,2023-11-28,05:25:31,Lake Calebberg,Stormy,Wet,Dark without lights,1,5,Minor,Bus,32,Male,70,No,Other
+907,2024-11-27,15:24:50,Port Calvin,Windy,Dry,Daylight,4,4,Fatal,Truck,70,Male,90,Yes,Drunk Driving
+908,2025-01-25,09:36:36,Port Alexchester,Stormy,Wet,Dark with street lights,5,4,Minor,Bus,29,Female,50,Yes,Overspeeding
+909,2024-06-04,20:44:37,Lake Katelyn,Fog,Snowy,Dark with street lights,1,2,Fatal,Van,73,Male,50,Yes,Overspeeding
+910,2024-03-24,05:33:57,Johnview,Fog,Icy,Daylight,4,4,Serious,Bicycle,56,Female,70,Yes,Other
+911,2024-12-01,03:29:39,West Alexander,Windy,Snowy,Dark without lights,5,0,Minor,Motorbike,80,Female,110,Yes,Other
+912,2023-06-20,21:19:15,Randallbury,Windy,Wet,Dark with street lights,1,5,Serious,Car,77,Male,50,No,Drunk Driving
+913,2023-10-06,02:52:49,East Cynthia,Fog,Dry,Dark without lights,3,3,Serious,Motorbike,45,Male,90,No,Mechanical Failure
+914,2023-12-18,19:27:38,Smithland,Snow,Dry,Daylight,1,5,Fatal,Car,70,Male,50,Yes,Bad Weather
+915,2023-08-27,20:39:59,Kramerside,Stormy,Icy,Dark without lights,1,0,Fatal,Motorbike,57,Male,90,Yes,Overspeeding
+916,2024-10-21,18:15:13,East Sarah,Rainy,Snowy,Daylight,4,1,Fatal,Motorbike,66,Female,90,Yes,Other
+917,2025-04-21,20:03:04,Jacksonmouth,Clear,Snowy,Dark with street lights,5,4,Serious,Car,74,Female,90,Yes,Overspeeding
+918,2024-10-12,09:13:32,Adamborough,Windy,Icy,Daylight,5,4,Fatal,Car,33,Female,50,Yes,Overspeeding
+919,2023-08-03,08:54:02,West Dennischester,Windy,Icy,Dark without lights,3,1,Minor,Bicycle,32,Female,110,No,Drunk Driving
+920,2025-02-14,07:58:24,Masonmouth,Windy,Wet,Dark without lights,2,1,Minor,Van,58,Female,70,No,Mechanical Failure
+921,2025-03-04,12:20:30,Marieside,Stormy,Dry,Daylight,3,4,Minor,Bus,69,Male,30,Yes,Distracted Driving
+922,2024-02-08,09:13:45,Jeremytown,Fog,Wet,Daylight,1,2,Minor,Van,62,Male,30,Yes,Distracted Driving
+923,2025-03-05,18:37:51,Chamberstown,Rainy,Dry,Dark without lights,1,4,Serious,Van,74,Female,50,No,Mechanical Failure
+924,2023-11-07,15:46:40,East David,Fog,Icy,Dark without lights,1,0,Minor,Bicycle,60,Male,90,Yes,Mechanical Failure
+925,2023-11-14,13:04:29,Port Barbaraside,Fog,Dry,Daylight,1,2,Serious,Bus,38,Female,110,Yes,Drunk Driving
+926,2023-10-15,02:06:46,Karenport,Rainy,Snowy,Dark with street lights,5,5,Fatal,Motorbike,21,Male,50,Yes,Overspeeding
+927,2023-10-16,15:33:33,South Deniseton,Windy,Snowy,Dark with street lights,1,2,Minor,Truck,26,Male,50,No,Mechanical Failure
+928,2023-08-02,22:54:00,North Christineville,Windy,Dry,Daylight,4,1,Serious,Motorbike,43,Male,30,No,Distracted Driving
+929,2023-11-10,03:03:57,East John,Rainy,Dry,Dark without lights,5,2,Fatal,Truck,63,Male,110,No,Overspeeding
+930,2025-03-19,14:11:11,Mcgrathview,Windy,Dry,Dark without lights,5,2,Serious,Car,20,Male,110,Yes,Mechanical Failure
+931,2025-02-06,19:19:41,New Jesse,Fog,Snowy,Dark with street lights,5,0,Serious,Truck,71,Male,110,Yes,Bad Weather
+932,2024-01-13,15:34:05,Hamiltonfurt,Snow,Wet,Dark without lights,1,2,Minor,Truck,30,Male,70,No,Mechanical Failure
+933,2024-02-03,22:36:12,West Timothyland,Clear,Wet,Daylight,2,4,Minor,Van,53,Female,30,No,Bad Weather
+934,2024-02-06,09:11:48,Lake Alyssa,Clear,Wet,Dark with street lights,2,2,Serious,Motorbike,78,Female,30,Yes,Mechanical Failure
+935,2024-02-13,01:53:51,East Matthew,Snow,Icy,Daylight,3,5,Fatal,Truck,42,Male,70,No,Distracted Driving
+936,2023-07-12,14:11:55,Flemingport,Windy,Icy,Dark with street lights,1,3,Serious,Truck,73,Female,50,Yes,Overspeeding
+937,2024-10-20,14:04:40,New Gary,Stormy,Dry,Dark without lights,5,2,Minor,Van,72,Male,50,Yes,Mechanical Failure
+938,2023-11-20,15:30:31,Eileenhaven,Windy,Icy,Dark without lights,4,2,Fatal,Van,37,Male,30,Yes,Bad Weather
+939,2025-02-05,17:22:03,Christinafort,Windy,Icy,Daylight,4,2,Fatal,Van,58,Male,90,Yes,Mechanical Failure
+940,2024-07-26,13:35:05,Lake Cameronchester,Fog,Snowy,Dark without lights,2,0,Serious,Van,52,Female,50,No,Other
+941,2024-01-14,08:31:50,Valentineton,Rainy,Dry,Dark with street lights,1,1,Fatal,Bicycle,42,Female,30,No,Distracted Driving
+942,2024-03-03,13:18:50,New Charles,Stormy,Wet,Dark with street lights,3,1,Fatal,Car,63,Female,50,Yes,Other
+943,2025-02-27,02:18:36,Erinshire,Snow,Icy,Dark without lights,3,2,Serious,Car,31,Male,30,No,Bad Weather
+944,2024-04-20,00:15:26,Potterhaven,Stormy,Wet,Dark with street lights,4,4,Serious,Truck,65,Male,50,Yes,Mechanical Failure
+945,2025-03-23,07:33:01,New Dawn,Snow,Snowy,Dark with street lights,2,1,Serious,Bicycle,64,Male,110,No,Other
+946,2023-06-30,10:38:53,Port Markport,Clear,Snowy,Daylight,3,3,Minor,Bus,55,Male,90,Yes,Mechanical Failure
+947,2024-08-11,17:11:27,East Robert,Fog,Wet,Dark with street lights,3,5,Serious,Bicycle,24,Male,110,Yes,Drunk Driving
+948,2024-06-04,13:41:59,Lawrencestad,Snow,Dry,Dark without lights,1,4,Serious,Car,76,Female,70,No,Drunk Driving
+949,2023-10-24,15:05:58,Frenchland,Stormy,Snowy,Dark with street lights,2,3,Minor,Van,80,Female,50,No,Mechanical Failure
+950,2023-08-06,17:17:18,Davisshire,Rainy,Icy,Daylight,3,4,Minor,Motorbike,71,Female,110,No,Drunk Driving
+951,2025-02-27,01:20:55,North Josephland,Rainy,Icy,Dark with street lights,5,1,Fatal,Truck,39,Male,30,No,Distracted Driving
+952,2023-07-26,01:19:25,Durhamstad,Fog,Snowy,Dark with street lights,1,2,Fatal,Bicycle,79,Female,90,No,Distracted Driving
+953,2023-05-15,23:23:39,Amyhaven,Snow,Wet,Dark without lights,3,2,Fatal,Bicycle,24,Female,90,No,Overspeeding
+954,2024-05-02,13:51:09,South Stanleytown,Snow,Icy,Dark with street lights,2,2,Serious,Car,58,Male,90,Yes,Bad Weather
+955,2023-12-28,22:17:47,Perezville,Snow,Wet,Daylight,4,1,Minor,Truck,30,Male,50,No,Mechanical Failure
+956,2024-05-11,21:27:09,West Danaport,Rainy,Icy,Dark with street lights,2,3,Minor,Car,80,Male,70,Yes,Distracted Driving
+957,2023-10-30,14:54:36,East Thomasstad,Stormy,Wet,Daylight,3,3,Fatal,Van,23,Female,110,No,Distracted Driving
+958,2024-10-09,10:13:22,Boydland,Rainy,Dry,Dark without lights,5,5,Serious,Van,66,Male,50,No,Drunk Driving
+959,2023-12-31,20:09:36,Port Christine,Windy,Snowy,Daylight,3,2,Serious,Motorbike,49,Female,30,Yes,Bad Weather
+960,2024-03-29,13:27:00,Port Peterchester,Rainy,Wet,Dark without lights,1,0,Serious,Bus,46,Female,50,No,Bad Weather
+961,2025-02-08,02:55:09,Michaeltown,Clear,Icy,Dark without lights,4,2,Fatal,Motorbike,61,Female,30,Yes,Overspeeding
+962,2024-09-07,10:50:54,Marilynland,Fog,Icy,Daylight,4,2,Serious,Bicycle,23,Male,50,No,Bad Weather
+963,2023-08-19,00:48:37,Michellemouth,Snow,Icy,Daylight,1,0,Minor,Bus,23,Male,70,No,Overspeeding
+964,2024-08-27,05:58:23,Alexstad,Clear,Wet,Dark without lights,5,3,Fatal,Van,80,Female,50,No,Overspeeding
+965,2023-05-25,02:19:01,East Vanessamouth,Windy,Snowy,Dark without lights,2,3,Minor,Motorbike,72,Male,110,Yes,Distracted Driving
+966,2024-08-28,02:30:45,Lake Robinmouth,Windy,Dry,Dark without lights,5,0,Serious,Van,68,Male,30,Yes,Drunk Driving
+967,2023-07-13,16:33:05,Port William,Snow,Wet,Daylight,4,0,Serious,Van,27,Male,90,No,Mechanical Failure
+968,2025-01-04,15:13:57,South Christopher,Clear,Snowy,Dark without lights,2,3,Serious,Motorbike,70,Female,70,Yes,Bad Weather
+969,2024-03-25,11:39:51,Tylerfurt,Snow,Wet,Dark with street lights,2,5,Minor,Van,32,Female,30,No,Bad Weather
+970,2024-06-12,01:33:01,Andersonmouth,Fog,Wet,Dark without lights,4,5,Minor,Motorbike,48,Female,30,Yes,Drunk Driving
+971,2025-02-12,13:34:04,East Yolandafurt,Fog,Snowy,Dark without lights,5,2,Fatal,Bicycle,66,Male,30,Yes,Drunk Driving
+972,2024-01-16,16:43:52,Jacobsport,Stormy,Wet,Daylight,4,0,Fatal,Truck,39,Male,90,No,Bad Weather
+973,2024-07-30,05:39:52,Port Aimee,Rainy,Wet,Dark with street lights,3,2,Fatal,Truck,55,Male,50,No,Mechanical Failure
+974,2023-08-05,05:06:17,East Christine,Clear,Wet,Dark without lights,5,1,Serious,Car,50,Female,110,Yes,Bad Weather
+975,2024-05-18,01:28:24,East Brandychester,Stormy,Dry,Daylight,5,4,Fatal,Bicycle,38,Male,110,Yes,Distracted Driving
+976,2025-02-08,05:45:36,North Anna,Rainy,Wet,Daylight,1,0,Minor,Bicycle,22,Female,70,Yes,Drunk Driving
+977,2024-09-17,08:39:02,East Joseph,Clear,Icy,Dark without lights,5,1,Fatal,Car,72,Male,90,No,Distracted Driving
+978,2024-06-15,00:34:52,Simmonsview,Snow,Snowy,Daylight,1,3,Serious,Van,75,Female,30,Yes,Overspeeding
+979,2025-01-06,19:42:34,East Tammyfurt,Stormy,Dry,Daylight,4,0,Fatal,Bicycle,77,Male,90,No,Mechanical Failure
+980,2024-06-29,02:15:23,Douglasshire,Stormy,Icy,Daylight,1,5,Minor,Bus,18,Male,110,Yes,Bad Weather
+981,2024-08-14,13:02:51,Griffithstad,Clear,Icy,Daylight,5,5,Fatal,Motorbike,49,Male,30,Yes,Mechanical Failure
+982,2023-06-14,12:12:33,Kaylaton,Stormy,Dry,Dark with street lights,4,5,Fatal,Bicycle,73,Male,110,No,Other
+983,2025-02-14,08:03:34,Smithport,Stormy,Snowy,Dark without lights,4,4,Fatal,Van,42,Male,90,Yes,Bad Weather
+984,2024-09-28,08:40:32,West Jameston,Clear,Icy,Daylight,3,0,Minor,Bicycle,73,Female,110,No,Overspeeding
+985,2024-02-28,15:47:57,Greenburgh,Snow,Snowy,Dark with street lights,4,3,Serious,Bus,62,Female,90,No,Overspeeding
+986,2023-06-05,15:02:29,Larsonville,Rainy,Snowy,Dark with street lights,1,3,Fatal,Bicycle,28,Male,90,No,Drunk Driving
+987,2024-08-16,22:24:31,Thomasfort,Stormy,Dry,Daylight,5,5,Minor,Motorbike,20,Female,50,Yes,Bad Weather
+988,2024-03-03,01:25:18,North Sandramouth,Clear,Snowy,Daylight,5,3,Serious,Van,35,Female,50,No,Drunk Driving
+989,2024-06-11,01:03:37,South Victorburgh,Clear,Icy,Daylight,1,5,Fatal,Motorbike,31,Female,70,No,Distracted Driving
+990,2024-04-17,18:18:13,Port Linda,Rainy,Wet,Dark with street lights,4,1,Minor,Van,74,Female,70,Yes,Drunk Driving
+991,2024-03-02,20:46:38,New Sandratown,Clear,Icy,Dark without lights,4,3,Serious,Bus,67,Female,110,Yes,Other
+992,2025-03-10,21:11:55,Woodhaven,Snow,Snowy,Daylight,3,4,Minor,Motorbike,24,Female,90,No,Other
+993,2024-07-17,06:15:38,Gordonton,Clear,Snowy,Daylight,5,1,Fatal,Motorbike,42,Male,50,Yes,Drunk Driving
+994,2023-10-27,17:20:56,Laurenmouth,Rainy,Dry,Dark with street lights,2,5,Serious,Motorbike,58,Male,30,Yes,Overspeeding
+995,2024-05-30,12:28:07,North Dylanburgh,Windy,Icy,Dark without lights,4,4,Fatal,Truck,72,Female,30,Yes,Overspeeding
+996,2024-06-15,00:01:03,Scottland,Rainy,Dry,Dark with street lights,4,3,Serious,Bicycle,76,Male,50,No,Bad Weather
+997,2023-07-09,12:13:13,New Sara,Stormy,Icy,Dark with street lights,2,2,Fatal,Bicycle,48,Male,30,No,Mechanical Failure
+998,2023-12-21,00:47:35,Jenniferport,Windy,Icy,Dark with street lights,3,0,Minor,Bicycle,37,Female,50,No,Overspeeding
+999,2024-02-03,19:28:06,North Rebeccaview,Fog,Snowy,Dark with street lights,5,3,Minor,Truck,79,Male,70,No,Bad Weather
+1000,2024-12-09,07:18:08,North Lauren,Windy,Wet,Daylight,4,2,Minor,Van,55,Male,70,No,Other
